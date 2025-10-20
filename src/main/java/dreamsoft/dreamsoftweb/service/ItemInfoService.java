@@ -6,13 +6,13 @@ import dreamsoft.dreamsoftweb.config.GameConfig;
 import dreamsoft.dreamsoftweb.dto.ItemInfoDto;
 import dreamsoft.dreamsoftweb.entity.ItemInfo;
 import dreamsoft.dreamsoftweb.mapper.ItemInfoMapper;
-import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.ResourceLoader;
 import org.springframework.stereotype.Service;
 
+import javax.annotation.PostConstruct;
 import java.io.IOException;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
