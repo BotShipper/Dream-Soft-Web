@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: Dream-Soft-Web
+  thymeleaf:
+    cache: false
+    prefix: classpath:/templates/
+    suffix: .html
+
+server:
+  port: 9020
+
+game:
+  configs:
+    htht:
+      name: "Hai Tac Huyen Thoai"
+      data-file: "classpath:data/item_info_htht.json"
+    nro2:
+      name: "Ngoc Rong Online 2"
+      data-file: "classpath:data/item_info_nro2.json"
+    tmah:
+      name: "Thien Menh Anh Hung"
+      data-file: "classpath:data/item_info_tmah.json"

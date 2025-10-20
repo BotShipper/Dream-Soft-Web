@@ -1,0 +1,6022 @@
+[
+  {
+    "id": 1,
+    "itemType": 1,
+    "name": "Belly",
+    "description": "Belly rất quý hiếm và phổ biến trên thế giới, sử dụng cho nhiều mục đích khác nhau",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 2,
+    "itemType": 2,
+    "name": "Kim cương",
+    "description": "Mỗi viên kim cương là một kiệt tác và giá trị của chúng rất lớn, sử dụng cho nhiều mục đích khác nhau",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 3,
+    "itemType": 3,
+    "name": "Exp",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 4,
+    "itemType": 4,
+    "name": "Kim cương Xanh",
+    "description": "Kim Cương Xanh rất quý hiếm và chỉ có thể đạt được qua phương thức đặc biệt. Sử dụng để quy đổi thành Kim Cương",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 5,
+    "itemType": 5,
+    "name": "Belly đen",
+    "description": "Có thể giao dịch được với người chơi khác và là đơn vị tiền tệ chính để mua bán trên chợ tự do. Có thể quy đổi trực tiếp thành Belly. Kiếm được khi kích hoạt máy dò kho báu khi tiêu diệt quái vật",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 6,
+    "itemType": 6,
+    "name": "Thỏi Vàng",
+    "description": "Cống hiến cá nhân trong băng hải tặc",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 7,
+    "itemType": 7,
+    "name": "Thỏi Bạc",
+    "description": "Cống hiến chung trong băng hải tặc",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 8,
+    "itemType": 8,
+    "name": "Vé tặng kim cương",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 9,
+    "itemType": 9,
+    "name": "Vé tặng kim cương đen",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 10,
+    "itemType": 10,
+    "name": "Mảnh đá quý",
+    "description": "Đổi trang phục trong cửa hàng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 11,
+    "itemType": 11,
+    "name": "Điểm tiềm năng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 12,
+    "itemType": 12,
+    "name": "Điểm kỹ năng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 13,
+    "itemType": 13,
+    "name": "Mở rộng hành trang",
+    "description": "Sử dụng để mở rộng 10 ô hành trang",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 15,
+    "itemType": 15,
+    "name": "Nổ hũ",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 31,
+    "itemType": 31,
+    "name": "Đá dịch chuyển",
+    "description": "Sử dụng để dịch chuyển nhanh trên bản đồ thế giới",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 32,
+    "itemType": 32,
+    "name": "Sách kỹ năng",
+    "description": "Sử dụng để nhận được 1 điểm kĩ năng",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 33,
+    "itemType": 33,
+    "name": "Chìa khoá",
+    "description": "Sử dụng chìa khóa để mở khóa giao dịch cho trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 41,
+    "itemType": 41,
+    "name": "Vé quay trái ác quỷ",
+    "description": "Sử dụng trong Gacha để có cơ hội sở hữu thêm trái ác quỷ",
+    "canTrade": 0,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 51,
+    "itemType": 50,
+    "name": "Cần câu tre",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 52,
+    "itemType": 50,
+    "name": "Cần câu sắt",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 53,
+    "itemType": 50,
+    "name": "Cần câu thời không",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 61,
+    "itemType": 60,
+    "name": "Giun",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 62,
+    "itemType": 60,
+    "name": "Tôm",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 63,
+    "itemType": 60,
+    "name": "Cục tròn",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 64,
+    "itemType": 60,
+    "name": "Xúc xích",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 65,
+    "itemType": 60,
+    "name": "Miếng thịt",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 71,
+    "itemType": 70,
+    "name": "Fighting Fish",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 72,
+    "itemType": 70,
+    "name": "Sweet Fish",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 73,
+    "itemType": 70,
+    "name": "Horn Fish",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 101,
+    "itemType": 100,
+    "name": "Đá cường hoá",
+    "description": "Dùng để cường hoá trang bị",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 102,
+    "itemType": 100,
+    "name": "Đá Bảo Hiểm B",
+    "description": "Bảo vệ trang bị khi cường hoá cấp 1 đến 9",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 103,
+    "itemType": 100,
+    "name": "Đá Bảo Hiểm A",
+    "description": "Bảo vệ trang bị khi cường hoá cấp 11 đến 14",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 104,
+    "itemType": 100,
+    "name": "Đá Bảo Hiểm S",
+    "description": "Bảo vệ trang bị khi cường hoá cấp 16 đến 19",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 105,
+    "itemType": 100,
+    "name": "Đá may mắn x2",
+    "description": "Tăng x2 tỷ lệ cường hoá thành công",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 106,
+    "itemType": 100,
+    "name": "Đá may mắn x3",
+    "description": "Tăng x3 tỷ lệ cường hoá thành công",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 107,
+    "itemType": 100,
+    "name": "Dùi đục",
+    "description": "Dùng để đục lỗ khảm đá",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 201,
+    "itemType": 200,
+    "name": "Quả cầu Haki Bá Vương",
+    "description": "Mở ra được 1 điểm Haki Bá Vương",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 202,
+    "itemType": 200,
+    "name": "Quả cầu Haki Quan Sát",
+    "description": "Mở ra được 1 điểm Haki Quan Sát",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 203,
+    "itemType": 200,
+    "name": "Quả cầu Haki Vũ Trang",
+    "description": "Mở ra được 1 điểm Haki Vũ Trang",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 321,
+    "itemType": 300,
+    "name": "Thuốc Tấn Công 1",
+    "description": "Tăng 3% Tấn công trong (1 giờ)",
+    "canTrade": 1,
+    "levelRequire": 30,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 322,
+    "itemType": 300,
+    "name": "Thuốc Tấn Công 2",
+    "description": "Tăng 5% Tấn công trong (1 giờ)",
+    "canTrade": 1,
+    "levelRequire": 40,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 323,
+    "itemType": 300,
+    "name": "Thuốc Tấn Công 3",
+    "description": "Tăng 10% Tấn công trong (1 giờ)",
+    "canTrade": 1,
+    "levelRequire": 50,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 331,
+    "itemType": 300,
+    "name": "Thuốc Phòng Thủ 1",
+    "description": "Tăng 3% Phòng thủ trong (1 giờ)",
+    "canTrade": 1,
+    "levelRequire": 30,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 332,
+    "itemType": 300,
+    "name": "Thuốc Phòng Thủ 2",
+    "description": "Tăng 5% Phòng thủ trong (1 giờ)",
+    "canTrade": 1,
+    "levelRequire": 40,
+    "quality": 2,
+    "characterType": 1
+  },
+  {
+    "id": 333,
+    "itemType": 300,
+    "name": "Thuốc Phòng Thủ 3",
+    "description": "Tăng 10% Phòng thủ trong (1 giờ)",
+    "canTrade": 1,
+    "levelRequire": 50,
+    "quality": 3,
+    "characterType": 2
+  },
+  {
+    "id": 341,
+    "itemType": 300,
+    "name": "Thuốc Chí mạng 1",
+    "description": "Tăng 200 Chí mạng trong (1 giờ)",
+    "canTrade": 1,
+    "levelRequire": 30,
+    "quality": 1,
+    "characterType": 3
+  },
+  {
+    "id": 342,
+    "itemType": 300,
+    "name": "Thuốc Chí mạng 2",
+    "description": "Tăng 500 Chí mạng trong (1 giờ)",
+    "canTrade": 1,
+    "levelRequire": 40,
+    "quality": 2,
+    "characterType": 4
+  },
+  {
+    "id": 343,
+    "itemType": 300,
+    "name": "Thuốc Chí mạng 3",
+    "description": "Tăng 1000 Chí mạng trong (1 giờ)",
+    "canTrade": 1,
+    "levelRequire": 50,
+    "quality": 3,
+    "characterType": 5
+  },
+  {
+    "id": 351,
+    "itemType": 300,
+    "name": "Thuốc Né Tránh 1",
+    "description": "Tăng 200 Né tránh trong (1 giờ)",
+    "canTrade": 1,
+    "levelRequire": 30,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 352,
+    "itemType": 300,
+    "name": "Thuốc Né Tránh 2",
+    "description": "Tăng 500 Né tránh trong (1 giờ)",
+    "canTrade": 1,
+    "levelRequire": 40,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 353,
+    "itemType": 300,
+    "name": "Thuốc Né Tránh 3",
+    "description": "Tăng 1000 Né tránh trong (1 giờ)",
+    "canTrade": 1,
+    "levelRequire": 50,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 361,
+    "itemType": 300,
+    "name": "Thuốc Sinh Lực 1",
+    "description": "Tăng 5% Max HP trong (1 giờ)",
+    "canTrade": 1,
+    "levelRequire": 30,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 362,
+    "itemType": 300,
+    "name": "Thuốc Sinh Lực 2",
+    "description": "Tăng 10% Max HP trong (1 giờ)",
+    "canTrade": 1,
+    "levelRequire": 40,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 363,
+    "itemType": 300,
+    "name": "Thuốc Sinh Lực 3",
+    "description": "Tăng 15% Max HP trong (1 giờ)",
+    "canTrade": 1,
+    "levelRequire": 50,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 371,
+    "itemType": 300,
+    "name": "Thẻ x2 Kinh Nghiệm",
+    "description": "Tăng x2 kinh nghiệm (2 giờ)",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 372,
+    "itemType": 300,
+    "name": "Thẻ x3 Kinh Nghiệm",
+    "description": "Tăng x3 kinh nghiệm (2 giờ)",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 373,
+    "itemType": 300,
+    "name": "Thẻ x4 Kinh Nghiệm",
+    "description": "Tăng x4 kinh nghiệm (2 giờ)",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 381,
+    "itemType": 300,
+    "name": "Thẻ x2 Belly",
+    "description": "Tăng X2 Belly nhận được khi đánh quái (2 giờ)",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 382,
+    "itemType": 300,
+    "name": "Thẻ x3 Belly",
+    "description": "Tăng X3 Belly nhận được khi đánh quái (2 giờ)",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 383,
+    "itemType": 300,
+    "name": "Thẻ x4 Belly",
+    "description": "Tăng X4 Belly nhận được khi đánh quái (2 giờ)",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 395,
+    "itemType": 300,
+    "name": "Máy dò kho báu",
+    "description": "Khi được kích hoạt, nhận Belly Đen tương ứng với 50% lượng Belly nhặt được. Kích hoạt trong 7 ngày.",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 396,
+    "itemType": 300,
+    "name": "Máy hút đồ (7d)",
+    "description": "Khi được kích hoạt, tự động nhặt đồ và Belly rơi ra từ quái. Kích hoạt trong 7 ngày.",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 397,
+    "itemType": 300,
+    "name": "Máy hút đồ (2h)",
+    "description": "Khi được kích hoạt, tự động nhặt đồ và Belly rơi ra từ quái. Kích hoạt trong 2 tiếng.",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 401,
+    "itemType": 400,
+    "name": "Kẹo Cotton",
+    "description": "Hồi 50 HP",
+    "canTrade": 1,
+    "levelRequire": 3,
+    "quality": 0,
+    "characterType": 1
+  },
+  {
+    "id": 402,
+    "itemType": 400,
+    "name": "Bánh Chocolate",
+    "description": "Hồi 250 HP",
+    "canTrade": 1,
+    "levelRequire": 5,
+    "quality": 0,
+    "characterType": 2
+  },
+  {
+    "id": 403,
+    "itemType": 400,
+    "name": "Kem Ốc Quế",
+    "description": "Hồi 500 HP",
+    "canTrade": 1,
+    "levelRequire": 10,
+    "quality": 1,
+    "characterType": 3
+  },
+  {
+    "id": 404,
+    "itemType": 400,
+    "name": "Bánh Donut",
+    "description": "Hồi 900 HP",
+    "canTrade": 1,
+    "levelRequire": 15,
+    "quality": 2,
+    "characterType": 4
+  },
+  {
+    "id": 405,
+    "itemType": 400,
+    "name": "Đùi Thịt",
+    "description": "Hồi 2000 HP",
+    "canTrade": 1,
+    "levelRequire": 20,
+    "quality": 2,
+    "characterType": 5
+  },
+  {
+    "id": 406,
+    "itemType": 400,
+    "name": "Cơm rang hải sản",
+    "description": "Hồi 3000 HP",
+    "canTrade": 1,
+    "levelRequire": 30,
+    "quality": 3,
+    "characterType": 5
+  },
+  {
+    "id": 407,
+    "itemType": 400,
+    "name": "Súp hải sâm",
+    "description": "Hồi 5000 HP",
+    "canTrade": 1,
+    "levelRequire": 40,
+    "quality": 4,
+    "characterType": 5
+  },
+  {
+    "id": 408,
+    "itemType": 400,
+    "name": "Thịt xiên nướng",
+    "description": "Hồi 15000 HP",
+    "canTrade": 1,
+    "levelRequire": 50,
+    "quality": 5,
+    "characterType": 5
+  },
+  {
+    "id": 411,
+    "itemType": 400,
+    "name": "Bình máu cấp 1",
+    "description": "Hồi 10% HP",
+    "canTrade": 1,
+    "levelRequire": 20,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 412,
+    "itemType": 400,
+    "name": "Bình máu cấp 2",
+    "description": "Hồi 15% HP",
+    "canTrade": 1,
+    "levelRequire": 30,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 413,
+    "itemType": 400,
+    "name": "Bình máu cấp 3",
+    "description": "Hồi 20% HP",
+    "canTrade": 1,
+    "levelRequire": 40,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 414,
+    "itemType": 400,
+    "name": "Bình máu cấp 4",
+    "description": "Hồi 25% HP",
+    "canTrade": 1,
+    "levelRequire": 50,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 415,
+    "itemType": 400,
+    "name": "Bình máu cấp 5",
+    "description": "Hồi 30% HP",
+    "canTrade": 1,
+    "levelRequire": 60,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 501,
+    "itemType": 500,
+    "name": "Nước suối",
+    "description": "Hồi 75 MP",
+    "canTrade": 1,
+    "levelRequire": 3,
+    "quality": 0,
+    "characterType": 1
+  },
+  {
+    "id": 502,
+    "itemType": 500,
+    "name": "Nước Dưa Hấu",
+    "description": "Hồi 375 MP",
+    "canTrade": 1,
+    "levelRequire": 5,
+    "quality": 0,
+    "characterType": 2
+  },
+  {
+    "id": 503,
+    "itemType": 500,
+    "name": "Nước Táo",
+    "description": "Hồi 750 MP",
+    "canTrade": 1,
+    "levelRequire": 10,
+    "quality": 1,
+    "characterType": 3
+  },
+  {
+    "id": 504,
+    "itemType": 500,
+    "name": "Nước Dừa",
+    "description": "Hồi 1350 MP",
+    "canTrade": 1,
+    "levelRequire": 15,
+    "quality": 2,
+    "characterType": 4
+  },
+  {
+    "id": 505,
+    "itemType": 500,
+    "name": "Coca cola",
+    "description": "Hồi 3000 MP",
+    "canTrade": 1,
+    "levelRequire": 20,
+    "quality": 2,
+    "characterType": 5
+  },
+  {
+    "id": 506,
+    "itemType": 500,
+    "name": "Vại bia",
+    "description": "Hồi 4500 MP",
+    "canTrade": 1,
+    "levelRequire": 30,
+    "quality": 3,
+    "characterType": 1
+  },
+  {
+    "id": 507,
+    "itemType": 500,
+    "name": "Rượu vang",
+    "description": "Hồi 7500 MP",
+    "canTrade": 1,
+    "levelRequire": 40,
+    "quality": 4,
+    "characterType": 2
+  },
+  {
+    "id": 508,
+    "itemType": 500,
+    "name": "Rượu Rum",
+    "description": "Hồi 22500 MP",
+    "canTrade": 1,
+    "levelRequire": 50,
+    "quality": 5,
+    "characterType": 3
+  },
+  {
+    "id": 511,
+    "itemType": 500,
+    "name": "Bình MP cấp 1",
+    "description": "Hồi 15% MP",
+    "canTrade": 1,
+    "levelRequire": 20,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 512,
+    "itemType": 500,
+    "name": "Bình MP cấp 2",
+    "description": "Hồi 25% MP",
+    "canTrade": 1,
+    "levelRequire": 30,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 513,
+    "itemType": 500,
+    "name": "Bình MP cấp 3",
+    "description": "Hồi 30% MP",
+    "canTrade": 1,
+    "levelRequire": 40,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 514,
+    "itemType": 500,
+    "name": "Bình MP cấp 4",
+    "description": "Hồi 35% MP",
+    "canTrade": 1,
+    "levelRequire": 50,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 515,
+    "itemType": 500,
+    "name": "Bình MP cấp 5",
+    "description": "Hồi 40% MP",
+    "canTrade": 1,
+    "levelRequire": 60,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 900,
+    "itemType": 900,
+    "name": "equip 0x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 901,
+    "itemType": 901,
+    "name": "equip 1x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 902,
+    "itemType": 902,
+    "name": "equip 2x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 903,
+    "itemType": 903,
+    "name": "equip 3x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 904,
+    "itemType": 904,
+    "name": "equip 4x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 905,
+    "itemType": 905,
+    "name": "equip 5x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 906,
+    "itemType": 906,
+    "name": "equip 6x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 907,
+    "itemType": 907,
+    "name": "equip 7x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 908,
+    "itemType": 908,
+    "name": "equip 8x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 1001,
+    "itemType": 1000,
+    "name": "Vũ khí Khởi đầu",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 1002,
+    "itemType": 1000,
+    "name": "Vũ khí Hải tặc",
+    "canTrade": 0,
+    "levelRequire": 20,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 1003,
+    "itemType": 1000,
+    "name": "Vũ khí Hải quân",
+    "canTrade": 0,
+    "levelRequire": 30,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 1004,
+    "itemType": 1000,
+    "name": "Vũ khí Ý chí",
+    "canTrade": 0,
+    "levelRequire": 40,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 1005,
+    "itemType": 1000,
+    "name": "Vũ khí Hắc Ám",
+    "canTrade": 0,
+    "levelRequire": 50,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 1006,
+    "itemType": 1000,
+    "name": "Vũ khí Kiếm sĩ",
+    "canTrade": 0,
+    "levelRequire": 60,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 1007,
+    "itemType": 1000,
+    "name": "Vũ khí Đô đốc",
+    "canTrade": 0,
+    "levelRequire": 70,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 1008,
+    "itemType": 1000,
+    "name": "Vũ khí Kuma",
+    "canTrade": 0,
+    "levelRequire": 80,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 1009,
+    "itemType": 1000,
+    "name": "Vũ khí Fujiora",
+    "canTrade": 0,
+    "levelRequire": 90,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 1010,
+    "itemType": 1000,
+    "name": "Vũ khí Trọng lực",
+    "canTrade": 0,
+    "levelRequire": 100,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 2001,
+    "itemType": 2000,
+    "name": "Nón Khởi đầu",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 2002,
+    "itemType": 2000,
+    "name": "Nón Hải tặc",
+    "canTrade": 0,
+    "levelRequire": 20,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 2003,
+    "itemType": 2000,
+    "name": "Nón Hải quân",
+    "canTrade": 0,
+    "levelRequire": 30,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 2004,
+    "itemType": 2000,
+    "name": "Nón Ý chí",
+    "canTrade": 0,
+    "levelRequire": 40,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 2005,
+    "itemType": 2000,
+    "name": "Nón Hắc Ám",
+    "canTrade": 0,
+    "levelRequire": 50,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 2006,
+    "itemType": 2000,
+    "name": "Nón Kiếm sĩ",
+    "canTrade": 0,
+    "levelRequire": 60,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 2007,
+    "itemType": 2000,
+    "name": "Nón Đô đốc",
+    "canTrade": 0,
+    "levelRequire": 70,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 2008,
+    "itemType": 2000,
+    "name": "Nón Kuma",
+    "canTrade": 0,
+    "levelRequire": 80,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 2009,
+    "itemType": 2000,
+    "name": "Nón Fujiora",
+    "canTrade": 0,
+    "levelRequire": 90,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 2010,
+    "itemType": 2000,
+    "name": "Nón Trọng lực",
+    "canTrade": 0,
+    "levelRequire": 100,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 3001,
+    "itemType": 3000,
+    "name": "Quần Khởi đầu",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 3002,
+    "itemType": 3000,
+    "name": "Quần Hải tặc",
+    "canTrade": 0,
+    "levelRequire": 20,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 3003,
+    "itemType": 3000,
+    "name": "Quần Hải quân",
+    "canTrade": 0,
+    "levelRequire": 30,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 3004,
+    "itemType": 3000,
+    "name": "Quần Ý chí",
+    "canTrade": 0,
+    "levelRequire": 40,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 3005,
+    "itemType": 3000,
+    "name": "Quần Hắc Ám",
+    "canTrade": 0,
+    "levelRequire": 50,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 3006,
+    "itemType": 3000,
+    "name": "Quần Kiếm sĩ",
+    "canTrade": 0,
+    "levelRequire": 60,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 3007,
+    "itemType": 3000,
+    "name": "Quần Đô đốc",
+    "canTrade": 0,
+    "levelRequire": 70,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 3008,
+    "itemType": 3000,
+    "name": "Quần Kuma",
+    "canTrade": 0,
+    "levelRequire": 80,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 3009,
+    "itemType": 3000,
+    "name": "Quần Fujiora",
+    "canTrade": 0,
+    "levelRequire": 90,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 3010,
+    "itemType": 3000,
+    "name": "Quần Trọng lực",
+    "canTrade": 0,
+    "levelRequire": 100,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 4001,
+    "itemType": 4000,
+    "name": "Áo Khởi đầu",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 4002,
+    "itemType": 4000,
+    "name": "Áo Hải tặc",
+    "canTrade": 0,
+    "levelRequire": 20,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 4003,
+    "itemType": 4000,
+    "name": "Áo Hải quân",
+    "canTrade": 0,
+    "levelRequire": 30,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 4004,
+    "itemType": 4000,
+    "name": "Áo Ý chí",
+    "canTrade": 0,
+    "levelRequire": 40,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 4005,
+    "itemType": 4000,
+    "name": "Áo Hắc Ám",
+    "canTrade": 0,
+    "levelRequire": 50,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 4006,
+    "itemType": 4000,
+    "name": "Áo Kiếm sĩ",
+    "canTrade": 0,
+    "levelRequire": 60,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 4007,
+    "itemType": 4000,
+    "name": "Áo Đô đốc",
+    "canTrade": 0,
+    "levelRequire": 70,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 4008,
+    "itemType": 4000,
+    "name": "Áo Kuma",
+    "canTrade": 0,
+    "levelRequire": 80,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 4009,
+    "itemType": 4000,
+    "name": "Áo Fujiora",
+    "canTrade": 0,
+    "levelRequire": 90,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 4010,
+    "itemType": 4000,
+    "name": "Áo Trọng lực",
+    "canTrade": 0,
+    "levelRequire": 100,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 5001,
+    "itemType": 5000,
+    "name": "Giày Khởi đầu",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 5002,
+    "itemType": 5000,
+    "name": "Giày Hải tặc",
+    "canTrade": 0,
+    "levelRequire": 20,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 5003,
+    "itemType": 5000,
+    "name": "Giày Hải quân",
+    "canTrade": 0,
+    "levelRequire": 30,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 5004,
+    "itemType": 5000,
+    "name": "Giày Ý chí",
+    "canTrade": 0,
+    "levelRequire": 40,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 5005,
+    "itemType": 5000,
+    "name": "Giày Hắc Ám",
+    "canTrade": 0,
+    "levelRequire": 50,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 5006,
+    "itemType": 5000,
+    "name": "Giày Kiếm sĩ",
+    "canTrade": 0,
+    "levelRequire": 60,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 5007,
+    "itemType": 5000,
+    "name": "Giày Đô đốc",
+    "canTrade": 0,
+    "levelRequire": 70,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 5008,
+    "itemType": 5000,
+    "name": "Giày Kuma",
+    "canTrade": 0,
+    "levelRequire": 80,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 5009,
+    "itemType": 5000,
+    "name": "Giày Fujiora",
+    "canTrade": 0,
+    "levelRequire": 90,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 5010,
+    "itemType": 5000,
+    "name": "Giày Trọng lực",
+    "canTrade": 0,
+    "levelRequire": 100,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 6001,
+    "itemType": 6000,
+    "name": "Nhẫn Khởi đầu",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 6002,
+    "itemType": 6000,
+    "name": "Nhẫn Hải tặc",
+    "canTrade": 0,
+    "levelRequire": 20,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 6003,
+    "itemType": 6000,
+    "name": "Nhẫn Hải quân",
+    "canTrade": 0,
+    "levelRequire": 30,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 6004,
+    "itemType": 6000,
+    "name": "Nhẫn Ý chí",
+    "canTrade": 0,
+    "levelRequire": 40,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 6005,
+    "itemType": 6000,
+    "name": "Nhẫn Hắc Ám",
+    "canTrade": 0,
+    "levelRequire": 50,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 6006,
+    "itemType": 6000,
+    "name": "Nhẫn Kiếm sĩ",
+    "canTrade": 0,
+    "levelRequire": 60,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 6007,
+    "itemType": 6000,
+    "name": "Nhẫn Đô đốc",
+    "canTrade": 0,
+    "levelRequire": 70,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 6008,
+    "itemType": 6000,
+    "name": "Nhẫn Kuma",
+    "canTrade": 0,
+    "levelRequire": 80,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 6009,
+    "itemType": 6000,
+    "name": "Nhẫn Fujiora",
+    "canTrade": 0,
+    "levelRequire": 90,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 6010,
+    "itemType": 6000,
+    "name": "Nhẫn Trọng lực",
+    "canTrade": 0,
+    "levelRequire": 100,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 7001,
+    "itemType": 7000,
+    "name": "Găng tay Khởi đầu",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 7002,
+    "itemType": 7000,
+    "name": "Găng tay Hải tặc",
+    "canTrade": 0,
+    "levelRequire": 20,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 7003,
+    "itemType": 7000,
+    "name": "Găng tay Hải quân",
+    "canTrade": 0,
+    "levelRequire": 30,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 7004,
+    "itemType": 7000,
+    "name": "Găng tay Ý chí",
+    "canTrade": 0,
+    "levelRequire": 40,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 7005,
+    "itemType": 7000,
+    "name": "Găng tay Hắc Ám",
+    "canTrade": 0,
+    "levelRequire": 50,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 7006,
+    "itemType": 7000,
+    "name": "Găng tay Kiếm sĩ",
+    "canTrade": 0,
+    "levelRequire": 60,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 7007,
+    "itemType": 7000,
+    "name": "Găng tay Đô đốc",
+    "canTrade": 0,
+    "levelRequire": 70,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 7008,
+    "itemType": 7000,
+    "name": "Găng tay Kuma",
+    "canTrade": 0,
+    "levelRequire": 80,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 7009,
+    "itemType": 7000,
+    "name": "Găng tay Fujiora",
+    "canTrade": 0,
+    "levelRequire": 90,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 7010,
+    "itemType": 7000,
+    "name": "Găng tay Trọng lực",
+    "canTrade": 0,
+    "levelRequire": 100,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 8001,
+    "itemType": 8000,
+    "name": "Vòng cổ Khởi đầu",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 8002,
+    "itemType": 8000,
+    "name": "Vòng cổ Hải tặc",
+    "canTrade": 0,
+    "levelRequire": 20,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 8003,
+    "itemType": 8000,
+    "name": "Vòng cổ Hải quân",
+    "canTrade": 0,
+    "levelRequire": 30,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 8004,
+    "itemType": 8000,
+    "name": "Vòng cổ Ý chí",
+    "canTrade": 0,
+    "levelRequire": 40,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 8005,
+    "itemType": 8000,
+    "name": "Vòng cổ Hắc Ám",
+    "canTrade": 0,
+    "levelRequire": 50,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 8006,
+    "itemType": 8000,
+    "name": "Vòng cổ Kiếm sĩ",
+    "canTrade": 0,
+    "levelRequire": 60,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 8007,
+    "itemType": 8000,
+    "name": "Vòng cổ Đô đốc",
+    "canTrade": 0,
+    "levelRequire": 70,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 8008,
+    "itemType": 8000,
+    "name": "Vòng cổ Kuma",
+    "canTrade": 0,
+    "levelRequire": 80,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 8009,
+    "itemType": 8000,
+    "name": "Vòng cổ Fujiora",
+    "canTrade": 0,
+    "levelRequire": 90,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 8010,
+    "itemType": 8000,
+    "name": "Vòng cổ Trọng lực",
+    "canTrade": 0,
+    "levelRequire": 100,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 10001,
+    "itemType": 10000,
+    "name": "Vua Hải Tặc Luffy",
+    "description": "Vua Hải Tặc Luffy",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 1
+  },
+  {
+    "id": 10002,
+    "itemType": 10000,
+    "name": "Vua Hải Tặc Zoro",
+    "description": "Vua Hải Tặc Zoro",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 2
+  },
+  {
+    "id": 10003,
+    "itemType": 10000,
+    "name": "Vua Hải Tặc Sanji",
+    "description": "Vua Hải Tặc Sanji",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 3
+  },
+  {
+    "id": 10004,
+    "itemType": 10000,
+    "name": "Vua Hải Tặc Ace",
+    "description": "Vua Hải Tặc Ace",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 4
+  },
+  {
+    "id": 10005,
+    "itemType": 10000,
+    "name": "Vua Hải Tặc Nami",
+    "description": "Vua Hải Tặc Nami",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 5
+  },
+  {
+    "id": 10011,
+    "itemType": 10000,
+    "name": "Nikka Luffy",
+    "description": "Khi Luffy thành thần mặt trời sẽ ra sao?",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 1
+  },
+  {
+    "id": 10012,
+    "itemType": 10000,
+    "name": "Nikka Zoro",
+    "description": "Khi Zoro thành thần mặt trời sẽ ra sao?",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 2
+  },
+  {
+    "id": 10013,
+    "itemType": 10000,
+    "name": "Nikka Sanji",
+    "description": "Khi Sanji thành thần mặt trời sẽ ra sao?",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 3
+  },
+  {
+    "id": 10014,
+    "itemType": 10000,
+    "name": "Nikka Ace",
+    "description": "Khi Ace thành thần mặt trời sẽ ra sao?",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 4
+  },
+  {
+    "id": 10015,
+    "itemType": 10000,
+    "name": "Nikka Nami",
+    "description": "Khi Nami thành thần mặt trời sẽ ra sao?",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 5
+  },
+  {
+    "id": 10021,
+    "itemType": 10000,
+    "name": "Wano Luffy",
+    "description": "Trang phục của Luffy khi ở Wano",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 1
+  },
+  {
+    "id": 10022,
+    "itemType": 10000,
+    "name": "Wano Zoro",
+    "description": "Trang phục của Zoro khi ở Wano",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 2
+  },
+  {
+    "id": 10023,
+    "itemType": 10000,
+    "name": "Wano Sanji",
+    "description": "Trang phục của Sanji khi ở Wano",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 3
+  },
+  {
+    "id": 10024,
+    "itemType": 10000,
+    "name": "Wano Ace",
+    "description": "Trang phục của Ace khi ở Wano",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 4
+  },
+  {
+    "id": 10025,
+    "itemType": 10000,
+    "name": "Wano Nami",
+    "description": "Trang phục của Nami khi ở Wano",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 5
+  },
+  {
+    "id": 10031,
+    "itemType": 10000,
+    "name": "Tiệc bãi biển Luffy",
+    "description": "Trang phục đi biển của Luffy",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 1
+  },
+  {
+    "id": 10032,
+    "itemType": 10000,
+    "name": "Tiệc bãi biển Zoro",
+    "description": "Trang phục đi biển của Zoro",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 2
+  },
+  {
+    "id": 10033,
+    "itemType": 10000,
+    "name": "Tiệc bãi biển Sanji",
+    "description": "Trang phục đi biển của Sanji",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 3
+  },
+  {
+    "id": 10034,
+    "itemType": 10000,
+    "name": "Tiệc bãi biển Ace",
+    "description": "Trang phục đi biển của Ace",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 4
+  },
+  {
+    "id": 10035,
+    "itemType": 10000,
+    "name": "Tiệc bãi biển Nami",
+    "description": "Trang phục đi biển của Nami",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 5
+  },
+  {
+    "id": 10041,
+    "itemType": 10000,
+    "name": "Siêu nhân Luffy",
+    "description": "Khi Luffy mặc những bộ Raid Suit sẽ ra sao?",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 1
+  },
+  {
+    "id": 10042,
+    "itemType": 10000,
+    "name": "Siêu nhân Zoro",
+    "description": "Khi Zoro mặc những bộ Raid Suit sẽ ra sao?",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 2
+  },
+  {
+    "id": 10043,
+    "itemType": 10000,
+    "name": "Siêu nhân Sanji",
+    "description": "Khi Sanji mặc những bộ Raid Suit sẽ ra sao?",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 3
+  },
+  {
+    "id": 10044,
+    "itemType": 10000,
+    "name": "Siêu nhân Ace",
+    "description": "Khi Ace mặc những bộ Raid Suit sẽ ra sao?",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 4
+  },
+  {
+    "id": 10045,
+    "itemType": 10000,
+    "name": "Siêu nhân Nami",
+    "description": "Khi Nami mặc những bộ Raid Suit sẽ ra sao?",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 5
+  },
+  {
+    "id": 10051,
+    "itemType": 10000,
+    "name": "Đa sắc Luffy",
+    "description": "Những sắc màu khác nhau của Luffy",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 1
+  },
+  {
+    "id": 10052,
+    "itemType": 10000,
+    "name": "Đa sắc Zoro",
+    "description": "Những sắc màu khác nhau của Zoro",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 2
+  },
+  {
+    "id": 10053,
+    "itemType": 10000,
+    "name": "Đa sắc Sanji",
+    "description": "Những sắc màu khác nhau của Sanji",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 3
+  },
+  {
+    "id": 10054,
+    "itemType": 10000,
+    "name": "Đa sắc Ace",
+    "description": "Những sắc màu khác nhau của Ace",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 4
+  },
+  {
+    "id": 10055,
+    "itemType": 10000,
+    "name": "Đa sắc Nami",
+    "description": "Những sắc màu khác nhau của Nami",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 5
+  },
+  {
+    "id": 10061,
+    "itemType": 10000,
+    "name": "Văn phòng Luffy",
+    "description": "Luffy là một nhân viên văn phòng?",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 1
+  },
+  {
+    "id": 10062,
+    "itemType": 10000,
+    "name": "Văn phòng Zoro",
+    "description": "Zoro là một nhân viên văn phòng?",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 2
+  },
+  {
+    "id": 10063,
+    "itemType": 10000,
+    "name": "Văn phòng Sanji",
+    "description": "Sanji là một nhân viên văn phòng?",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 3
+  },
+  {
+    "id": 10064,
+    "itemType": 10000,
+    "name": "Văn phòng Ace",
+    "description": "Ace là một nhân viên văn phòng?",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 4
+  },
+  {
+    "id": 10065,
+    "itemType": 10000,
+    "name": "Văn phòng Nami",
+    "description": "Nami là một nhân viên văn phòng?",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 5
+  },
+  {
+    "id": 13001,
+    "itemType": 13000,
+    "name": "Vua Hải tặc",
+    "description": "Danh hiệu dành riêng cho kẻ mạnh nhất Đại Hải Trình",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 13002,
+    "itemType": 13000,
+    "name": "Tứ hoàng",
+    "description": "Bốn kẻ vượt trội với sức mạnh kinh khủng khiếp",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 13003,
+    "itemType": 13000,
+    "name": "Thất vũ hải",
+    "description": "Bảy tên Hải Tặc với sức mạnh vượt mức thông thường",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 13004,
+    "itemType": 13000,
+    "name": "Siêu tân tinh",
+    "description": "Thành viên của Băng Hải Tặc mạnh nhất Đại Hải Trình",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 13005,
+    "itemType": 13000,
+    "name": "Tài phiệt",
+    "description": "Tổng Tài ",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 13006,
+    "itemType": 13000,
+    "name": "Haki Bá Vương",
+    "description": "Mở khoá toàn bộ Haki Bá Vương",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 13007,
+    "itemType": 13000,
+    "name": "Haki Quan Sát",
+    "description": "Mở khoá toàn bộ Haki Quan Sát",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 13008,
+    "itemType": 13000,
+    "name": "Haki Vũ Trang",
+    "description": "Mở khoá toàn bộ Haki Vũ Trang",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 13009,
+    "itemType": 13000,
+    "name": "Haki Toàn Diện",
+    "description": "Sở hữu sức mạnh của cả 3 loại Haki",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 13010,
+    "itemType": 13000,
+    "name": "5.564.800.000 Bounty",
+    "description": "Truy nã với số tiền thưởng cao nhất",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 13011,
+    "itemType": 13000,
+    "name": "Đại gia chân đất",
+    "description": "Giàu nhưng... giàu",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 13012,
+    "itemType": 13000,
+    "name": "Nhà Thám Hiểm Vĩ Đại",
+    "description": "Vượt qua mọi vùng đất và vùng biển",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 13013,
+    "itemType": 13000,
+    "name": "Thuyền Trưởng Huyền Thoại",
+    "description": "Lãnh đạo vĩ đại của băng hải tặc",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 13014,
+    "itemType": 13000,
+    "name": "Kẻ diệt Kaido",
+    "description": "Kẻ ra đòn kết liệu Kaido",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 13015,
+    "itemType": 13000,
+    "name": "Thợ Săn Kraken",
+    "description": "Kẻ tiêu diệt rất nhiều Kraken",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 13016,
+    "itemType": 13000,
+    "name": "Trùm Vượt Ngục",
+    "description": "Đào thoát từ tầng sâu nhất của Impel Down",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 13017,
+    "itemType": 13000,
+    "name": "Sứ Giả Của Tình Bạn",
+    "description": "Dĩ hoà vi quý, ai cũng vui vẻ hoà đồng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 13018,
+    "itemType": 13000,
+    "name": "Thần may mắn",
+    "description": "May",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 13019,
+    "itemType": 13000,
+    "name": "Giải cứu Wano",
+    "description": "Tham gia giải cứu Wano thành công",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 13020,
+    "itemType": 13000,
+    "name": "Hải tặc",
+    "description": "Biểu tượng của một hải tặc... bình thường",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 13021,
+    "itemType": 13000,
+    "name": "Thợ Săn Quái",
+    "description": "Hạ gục thật nhiều quái vật",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 13022,
+    "itemType": 13000,
+    "name": "Thập tử vô sinh",
+    "description": "Meh... Chết đi sống lại...",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 13023,
+    "itemType": 13000,
+    "name": "Máy khâu",
+    "description": "Mồm to và nói quá nhiều",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 13024,
+    "itemType": 13000,
+    "name": "Kẻ tham ăn",
+    "description": "Những người sành ăn cô độc",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 13031,
+    "itemType": 13000,
+    "name": "Danh hiệu VIP 1",
+    "description": "Đạt VIP 1",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 13032,
+    "itemType": 13000,
+    "name": "Danh hiệu VIP 2",
+    "description": "Đạt VIP 2",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 13033,
+    "itemType": 13000,
+    "name": "Danh hiệu VIP 3",
+    "description": "Đạt VIP 3",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 13034,
+    "itemType": 13000,
+    "name": "Danh hiệu VIP 4",
+    "description": "Đạt VIP 4",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 13035,
+    "itemType": 13000,
+    "name": "Danh hiệu VIP 5",
+    "description": "Đạt VIP 5",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 13036,
+    "itemType": 13000,
+    "name": "Danh hiệu VIP 6",
+    "description": "Đạt VIP 6",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 13037,
+    "itemType": 13000,
+    "name": "Danh hiệu VIP 7",
+    "description": "Đạt VIP 7",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 13038,
+    "itemType": 13000,
+    "name": "Danh hiệu VIP 8",
+    "description": "Đạt VIP 8",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 13039,
+    "itemType": 13000,
+    "name": "Danh hiệu VIP 9",
+    "description": "Đạt VIP 9",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 13040,
+    "itemType": 13000,
+    "name": "Danh hiệu VIP 10",
+    "description": "Đạt VIP 10",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 13041,
+    "itemType": 13000,
+    "name": "Danh hiệu VIP 11",
+    "description": "Đạt VIP 11",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 13042,
+    "itemType": 13000,
+    "name": "Danh hiệu VIP 12",
+    "description": "Đạt VIP 12",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 13043,
+    "itemType": 13000,
+    "name": "Danh hiệu VIP 13",
+    "description": "Đạt VIP 13",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 13044,
+    "itemType": 13000,
+    "name": "Danh hiệu VIP 14",
+    "description": "Đạt VIP 14",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 13045,
+    "itemType": 13000,
+    "name": "Danh hiệu VIP 15",
+    "description": "Đạt VIP 15",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 17001,
+    "itemType": 17000,
+    "name": "Mảnh trang bị D",
+    "description": "Dùng để ghép rương trang bị hoặc các mảnh trang bị cao cấp hơn",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 17002,
+    "itemType": 17000,
+    "name": "Mảnh trang bị C",
+    "description": "Dùng để ghép rương trang bị hoặc các mảnh trang bị cao cấp hơn",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 17003,
+    "itemType": 17000,
+    "name": "Mảnh trang bị B",
+    "description": "Dùng để ghép rương trang bị hoặc các mảnh trang bị cao cấp hơn",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 17004,
+    "itemType": 17000,
+    "name": "Mảnh trang bị A",
+    "description": "Dùng để ghép rương trang bị hoặc các mảnh trang bị cao cấp hơn",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 17005,
+    "itemType": 17000,
+    "name": "Mảnh trang bị S",
+    "description": "Dùng để ghép rương trang bị hoặc các mảnh trang bị cao cấp hơn",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 17006,
+    "itemType": 17000,
+    "name": "Mảnh trang bị SS",
+    "description": "Dùng để ghép rương trang bị hoặc các mảnh trang bị cao cấp hơn",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 17007,
+    "itemType": 17000,
+    "name": "Mảnh trang bị SSS",
+    "description": "Dùng để ghép rương trang bị hoặc các mảnh trang bị cao cấp hơn",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 17011,
+    "itemType": 17000,
+    "name": "Mảnh ghép Quả cầu Haki",
+    "description": "Dùng 100 mảnh để ghép Quả cầu Haki Ngẫu Nhiên",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 17012,
+    "itemType": 17000,
+    "name": "Mảnh Trái ác quỷ",
+    "description": "Dùng 100 mảnh để ghép Trái ác quỷ ngẫu nhiên",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 18008,
+    "itemType": 18000,
+    "name": "Trái ác quỷ bí ẩn",
+    "description": "Mở ra 1 trái ác quỷ ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 18009,
+    "itemType": 18000,
+    "name": "Rương thần bí",
+    "description": "Rương mở ra phần thưởng ngẫu nhiên",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 18010,
+    "itemType": 18000,
+    "name": "Rương gỗ",
+    "description": "Rương mở ra phần thưởng ngẫu nhiên",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 18011,
+    "itemType": 18000,
+    "name": "Rương sắt",
+    "description": "Rương mở ra phần thưởng ngẫu nhiên",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 18012,
+    "itemType": 18000,
+    "name": "Rương đồng",
+    "description": "Rương mở ra phần thưởng ngẫu nhiên",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 18013,
+    "itemType": 18000,
+    "name": "Rương bạc",
+    "description": "Rương mở ra phần thưởng ngẫu nhiên",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 18014,
+    "itemType": 18000,
+    "name": "Rương vàng",
+    "description": "Rương mở ra phần thưởng ngẫu nhiên",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 18015,
+    "itemType": 18000,
+    "name": "Rương thạch anh tím",
+    "description": "Rương mở ra phần thưởng ngẫu nhiên",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 18016,
+    "itemType": 18000,
+    "name": "Quả cầu Haki Ngẫu Nhiên",
+    "description": "Mở ra được 1 trong 3 Quả cầu Haki ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 18021,
+    "itemType": 18000,
+    "name": "Ngọc Ngẫu nhiên 1",
+    "description": "Mở ra 1 Ngọc ngẫu nhiên cấp 1",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 18022,
+    "itemType": 18000,
+    "name": "Ngọc Ngẫu nhiên 2",
+    "description": "Mở ra 1 Ngọc ngẫu nhiên cấp 2",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 18023,
+    "itemType": 18000,
+    "name": "Ngọc Ngẫu nhiên 3",
+    "description": "Mở ra 1 Ngọc ngẫu nhiên cấp 3",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 18024,
+    "itemType": 18000,
+    "name": "Ngọc Ngẫu nhiên 4",
+    "description": "Mở ra 1 Ngọc ngẫu nhiên cấp 4",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 18025,
+    "itemType": 18000,
+    "name": "Ngọc Ngẫu nhiên 5",
+    "description": "Mở ra 1 Ngọc ngẫu nhiên cấp 5",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 18110,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên D (1)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 18111,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên C (1)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 18112,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên B (1)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 18113,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên A (1)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 18114,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên S (1)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 18115,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SS (1)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 18116,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SSS (1)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 18120,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên D (20)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 18121,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên C (20)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 18122,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên B (20)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 18123,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên A (20)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 18124,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên S (20)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 18125,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SS (20)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 18126,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SSS (20)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 18130,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên D (30)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 18131,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên C (30)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 18132,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên B (30)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 18133,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên A (30)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 18134,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên S (30)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 18135,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SS (30)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 18136,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SSS (30)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 18140,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên D (40)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 18141,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên C (40)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 18142,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên B (40)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 18143,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên A (40)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 18144,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên S (40)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 18145,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SS (40)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 18146,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SSS (40)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 18150,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên D (50)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 18151,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên C (50)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 18152,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên B (50)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 18153,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên A (50)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 18154,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên S (50)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 18155,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SS (50)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 18156,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SSS (50)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 18160,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên D (60)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 18161,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên C (60)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 18162,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên B (60)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 18163,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên A (60)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 18164,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên S (60)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 18165,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SS (60)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 18166,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SSS (60)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 18170,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên D (70)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 18171,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên C (70)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 18172,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên B (70)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 18173,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên A (70)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 18174,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên S (70)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 18175,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SS (70)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 18176,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SSS (70)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 18180,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên D (80)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 18181,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên C (80)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 18182,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên B (80)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 18183,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên A (80)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 18184,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên S (80)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 18185,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SS (80)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 18186,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SSS (80)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 18190,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên D (90)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 18191,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên C (90)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 18192,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên B (90)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 18193,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên A (90)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 18194,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên S (90)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 18195,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SS (90)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 18196,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SSS (90)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 18200,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên D (100)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 18201,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên C (100)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 18202,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên B (100)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 18203,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên A (100)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 18204,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên S (100)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 18205,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SS (100)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 18206,
+    "itemType": 18000,
+    "name": "Rương trang bị ngẫu nhiên SSS (100)",
+    "description": "Mở ra ngẫu nhiên một trang bị",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 19001,
+    "itemType": 19000,
+    "name": "Rương ngọc tự chọn cấp 1",
+    "description": "Mở ra 1 Ngọc tự chọn cấp 1",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 19002,
+    "itemType": 19000,
+    "name": "Rương ngọc tự chọn cấp 2",
+    "description": "Mở ra 1 Ngọc tự chọn cấp 2",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 19003,
+    "itemType": 19000,
+    "name": "Rương ngọc tự chọn cấp 3",
+    "description": "Mở ra 1 Ngọc tự chọn cấp 3",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 19004,
+    "itemType": 19000,
+    "name": "Rương ngọc tự chọn cấp 4",
+    "description": "Mở ra 1 Ngọc tự chọn cấp 4",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 19005,
+    "itemType": 19000,
+    "name": "Rương ngọc tự chọn cấp 5",
+    "description": "Mở ra 1 Ngọc tự chọn cấp 5",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 19011,
+    "itemType": 19000,
+    "name": "Quả cầu Haki Tự Chọn",
+    "description": "Tự chọn 1 trong 3 quả cầu Haki",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 19110,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn D (1)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 19111,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn C (1)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 19112,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn B (1)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 19113,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn A (1)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 19114,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn S (1)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 19115,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SS (1)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 19116,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SSS (1)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 19120,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn D (20)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 19121,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn C (20)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 19122,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn B (20)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 19123,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn A (20)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 19124,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn S (20)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 19125,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SS (20)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 19126,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SSS (20)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 19130,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn D (30)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 19131,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn C (30)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 19132,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn B (30)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 19133,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn A (30)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 19134,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn S (30)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 19135,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SS (30)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 19136,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SSS (30)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 19140,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn D (40)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 19141,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn C (40)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 19142,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn B (40)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 19143,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn A (40)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 19144,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn S (40)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 19145,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SS (40)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 19146,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SSS (40)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 19150,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn D (50)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 19151,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn C (50)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 19152,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn B (50)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 19153,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn A (50)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 19154,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn S (50)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 19155,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SS (50)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 19156,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SSS (50)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 19160,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn D (60)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 19161,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn C (60)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 19162,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn B (60)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 19163,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn A (60)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 19164,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn S (60)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 19165,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SS (60)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 19166,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SSS (60)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 19170,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn D (70)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 19171,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn C (70)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 19172,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn B (70)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 19173,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn A (70)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 19174,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn S (70)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 19175,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SS (70)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 19176,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SSS (70)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 19180,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn D (80)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 19181,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn C (80)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 19182,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn B (80)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 19183,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn A (80)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 19184,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn S (80)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 19185,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SS (80)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 19186,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SSS (80)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 19190,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn D (90)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 19191,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn C (90)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 19192,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn B (90)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 19193,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn A (90)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 19194,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn S (90)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 19195,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SS (90)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 19196,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SSS (90)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 19200,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn D (100)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 19201,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn C (100)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 1,
+    "characterType": 0
+  },
+  {
+    "id": 19202,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn B (100)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 19203,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn A (100)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 19204,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn S (100)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 19205,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SS (100)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 19206,
+    "itemType": 19000,
+    "name": "Rương trang bị tự chọn SSS (100)",
+    "description": "Chọn một trang bị tương ứng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 20001,
+    "itemType": 20000,
+    "name": "Mera mera no mi",
+    "description": "\"Trái Lửa, ban cho người ăn sức mạnh điều khiển lửa – đốt sạch cả team nếu không cẩn thận!\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20002,
+    "itemType": 20000,
+    "name": "Hie hie no mi",
+    "description": "\"Trái Băng, đóng băng mọi thứ trong chớp mắt… kể cả đồng đội nếu lỡ tay.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20003,
+    "itemType": 20000,
+    "name": "Magu magu no mi",
+    "description": "\"Trái Dung Nham, một cú đấm thôi cũng đủ làm cả bản đồ bốc hơi!\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20004,
+    "itemType": 20000,
+    "name": "Tori tori no mi",
+    "description": "\"Trái Chim, cho khả năng bay lượn và hồi phục như phượng hoàng tái sinh.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20005,
+    "itemType": 20000,
+    "name": "Yuki yuki no mi",
+    "description": "\"Trái Tuyết, hóa tuyết thành vũ khí, vừa lạnh vừa… đẹp.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20006,
+    "itemType": 20000,
+    "name": "Hobi hobi no mi",
+    "description": "\"Trái Đồ Chơi, biến kẻ địch thành đồ chơi bé xíu – đáng yêu nhưng đầy ám ảnh.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20007,
+    "itemType": 20000,
+    "name": "Bisu Bisu Nomi",
+    "description": "\"Trái Bánh Quy, tạo ra bánh quy vô tận… vừa làm khiên, vừa làm bữa trưa.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20008,
+    "itemType": 20000,
+    "name": "Pika Pika Nomi",
+    "description": "\"Trái Ánh Sáng, di chuyển nhanh như tia sáng, đấm trước khi kẻ địch kịp chớp mắt.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20009,
+    "itemType": 20000,
+    "name": "Doku doku no mi",
+    "description": "\"Trái Độc, biến cơ thể thành chất độc sống – đứng gần thôi cũng nguy hiểm.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20010,
+    "itemType": 20000,
+    "name": "Suna Suna Nomi",
+    "description": "\"Trái Cát, điều khiển cát sa mạc, một cơn lốc là xoá sạch mọi dấu vết.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20011,
+    "itemType": 20000,
+    "name": "Bomu Bomu no Mi",
+    "description": "\"Trái Bom, cơ thể thành kho thuốc nổ di động, hắt hơi cũng thành thảm họa.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20012,
+    "itemType": 20000,
+    "name": "Doru Doru no Mi",
+    "description": "\"Trái Sáp, tạo áo giáp, vũ khí và bẫy từ sáp – sáng tạo là vô tận.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20013,
+    "itemType": 20000,
+    "name": "Baku Baku no Mi",
+    "description": "\"Trái Ăn Tạp, ăn mọi thứ rồi… biến chúng thành một phần cơ thể bạn.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20014,
+    "itemType": 20000,
+    "name": "Mane Mane no Mi",
+    "description": "\"Trái Bắt Chước, sao chép hình dạng và giọng nói của bất kỳ ai – cosplay level max.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20015,
+    "itemType": 20000,
+    "name": "Ori Ori no Mi",
+    "description": "\"Trái Xiềng, chỉ cần chạm là khoá trói đối thủ ngay lập tức.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20016,
+    "itemType": 20000,
+    "name": "Bari Bari no Mi",
+    "description": "\"Trái Khiên, tạo lá chắn tuyệt đối – né đòn thì giỏi, nhưng bị spam phàn nàn.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20017,
+    "itemType": 20000,
+    "name": "Uma Uma no Mi",
+    "description": "\"Trái Ngựa, cho tốc độ nước rút như tên bắn – nhưng vẫn phải biết thắng phanh.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20018,
+    "itemType": 20000,
+    "name": "Muri Muri no Mi",
+    "description": "\"Trái Bất Khả, vượt qua mọi giới hạn vật lý – bất khả thi trở thành khả thi.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20019,
+    "itemType": 20000,
+    "name": "Tama Tama no Mi",
+    "description": "\"Trái Trứng, mọc ra trứng liên tục… nghe kỳ nhưng cực kỳ lợi hại.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20020,
+    "itemType": 20000,
+    "name": "Sara Sara no Mi",
+    "description": "\"Trái Rắn, hóa thành rắn trườn lượn, nọc độc cực kỳ nguy hiểm.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20021,
+    "itemType": 20000,
+    "name": "Yami Yami no Mi",
+    "description": "\"Trái Bóng Tối, điều khiển hố đen nuốt trọn mọi thứ – kể cả ánh sáng.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20022,
+    "itemType": 20000,
+    "name": "Gasu Gasu no Mi",
+    "description": "\"Trái Khí, biến thành khí độc, len lỏi mọi nơi mà không ai thấy.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20023,
+    "itemType": 20000,
+    "name": "Woshu Woshu no Mi",
+    "description": "\"Trái Giặt Giũ, giặt sạch mọi thứ, từ quần áo đến… tội lỗi.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 20024,
+    "itemType": 20000,
+    "name": "Juku Juku no Mi",
+    "description": "\"Trái Trưởng Thành, tăng tốc quá trình lão hóa và hủy diệt – thời gian trong tay bạn.\"",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 7,
+    "characterType": 0
+  },
+  {
+    "id": 21001,
+    "itemType": 21000,
+    "name": "Ngọc Chí Mạng 1",
+    "description": "Dùng để khảm trang bị. Tăng 10 Chí Mạng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 21002,
+    "itemType": 21000,
+    "name": "Ngọc Chí Mạng 2",
+    "description": "Dùng để khảm trang bị. Tăng 15 Chí Mạng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 21003,
+    "itemType": 21000,
+    "name": "Ngọc Chí Mạng 3",
+    "description": "Dùng để khảm trang bị. Tăng 30 Chí Mạng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 21004,
+    "itemType": 21000,
+    "name": "Ngọc Chí Mạng 4",
+    "description": "Dùng để khảm trang bị. Tăng 45 Chí Mạng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 21005,
+    "itemType": 21000,
+    "name": "Ngọc Chí Mạng 5",
+    "description": "Dùng để khảm trang bị. Tăng 60 Chí Mạng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 21011,
+    "itemType": 21000,
+    "name": "Ngọc Chính xác 1",
+    "description": "Dùng để khảm trang bị. Tăng 20 Chính xác",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 21012,
+    "itemType": 21000,
+    "name": "Ngọc Chính xác 2",
+    "description": "Dùng để khảm trang bị. Tăng 30 Chính xác",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 21013,
+    "itemType": 21000,
+    "name": "Ngọc Chính xác 3",
+    "description": "Dùng để khảm trang bị. Tăng 60 Chính xác",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 21014,
+    "itemType": 21000,
+    "name": "Ngọc Chính xác 4",
+    "description": "Dùng để khảm trang bị. Tăng 90 Chính xác",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 21015,
+    "itemType": 21000,
+    "name": "Ngọc Chính xác 5",
+    "description": "Dùng để khảm trang bị. Tăng 120 Chính xác",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 21021,
+    "itemType": 21000,
+    "name": "Ngọc HP 1",
+    "description": "Dùng để khảm trang bị. Tăng 300 HP",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 21022,
+    "itemType": 21000,
+    "name": "Ngọc HP 2",
+    "description": "Dùng để khảm trang bị. Tăng 450 HP",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 21023,
+    "itemType": 21000,
+    "name": "Ngọc HP 3",
+    "description": "Dùng để khảm trang bị. Tăng 900 HP",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 21024,
+    "itemType": 21000,
+    "name": "Ngọc HP 4",
+    "description": "Dùng để khảm trang bị. Tăng 1350 HP",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 21025,
+    "itemType": 21000,
+    "name": "Ngọc HP 5",
+    "description": "Dùng để khảm trang bị. Tăng 1800 HP",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 21031,
+    "itemType": 21000,
+    "name": "Ngọc Hút Máu 1",
+    "description": "Dùng để khảm trang bị. Tăng 0.05% Hút Máu",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 21032,
+    "itemType": 21000,
+    "name": "Ngọc Hút Máu 2",
+    "description": "Dùng để khảm trang bị. Tăng 0.08% Hút Máu",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 21033,
+    "itemType": 21000,
+    "name": "Ngọc Hút Máu 3",
+    "description": "Dùng để khảm trang bị. Tăng 0.15% Hút Máu",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 21034,
+    "itemType": 21000,
+    "name": "Ngọc Hút Máu 4",
+    "description": "Dùng để khảm trang bị. Tăng 0.23% Hút Máu",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 21035,
+    "itemType": 21000,
+    "name": "Ngọc Hút Máu 5",
+    "description": "Dùng để khảm trang bị. Tăng 0.3% Hút Máu",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 21041,
+    "itemType": 21000,
+    "name": "Ngọc Kinh Nghiệm 1",
+    "description": "Dùng để khảm trang bị. Tăng 0.15% Kinh Nghiệm",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 21042,
+    "itemType": 21000,
+    "name": "Ngọc Kinh Nghiệm 2",
+    "description": "Dùng để khảm trang bị. Tăng 0.23% Kinh Nghiệm",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 21043,
+    "itemType": 21000,
+    "name": "Ngọc Kinh Nghiệm 3",
+    "description": "Dùng để khảm trang bị. Tăng 0.45% Kinh Nghiệm",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 21044,
+    "itemType": 21000,
+    "name": "Ngọc Kinh Nghiệm 4",
+    "description": "Dùng để khảm trang bị. Tăng 0.68% Kinh Nghiệm",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 21045,
+    "itemType": 21000,
+    "name": "Ngọc Kinh Nghiệm 5",
+    "description": "Dùng để khảm trang bị. Tăng 0.90% Kinh Nghiệm",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 21051,
+    "itemType": 21000,
+    "name": "Ngọc Né Tránh 1",
+    "description": "Dùng để khảm trang bị. Tăng 10 Né Tránh",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 21052,
+    "itemType": 21000,
+    "name": "Ngọc Né Tránh 2",
+    "description": "Dùng để khảm trang bị. Tăng 15 Né Tránh",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 21053,
+    "itemType": 21000,
+    "name": "Ngọc Né Tránh 3",
+    "description": "Dùng để khảm trang bị. Tăng 30 Né Tránh",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 21054,
+    "itemType": 21000,
+    "name": "Ngọc Né Tránh 4",
+    "description": "Dùng để khảm trang bị. Tăng 45 Né Tránh",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 21055,
+    "itemType": 21000,
+    "name": "Ngọc Né Tránh 5",
+    "description": "Dùng để khảm trang bị. Tăng 60 Né Tránh",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 21071,
+    "itemType": 21000,
+    "name": "Ngọc Phòng thủ 1",
+    "description": "Dùng để khảm trang bị. Tăng 30 Phòng Thủ",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 21072,
+    "itemType": 21000,
+    "name": "Ngọc Phòng thủ 2",
+    "description": "Dùng để khảm trang bị. Tăng 45 Phòng Thủ",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 21073,
+    "itemType": 21000,
+    "name": "Ngọc Phòng thủ 3",
+    "description": "Dùng để khảm trang bị. Tăng 90 Phòng Thủ",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 21074,
+    "itemType": 21000,
+    "name": "Ngọc Phòng thủ 4",
+    "description": "Dùng để khảm trang bị. Tăng 135 Phòng Thủ",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 21075,
+    "itemType": 21000,
+    "name": "Ngọc Phòng thủ 5",
+    "description": "Dùng để khảm trang bị. Tăng 180 Phòng Thủ",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 21081,
+    "itemType": 21000,
+    "name": "Ngọc Sát Thương Chí Mạng 1",
+    "description": "Dùng để khảm trang bị. Tăng 20 Sát Thương Chí Mạng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 21082,
+    "itemType": 21000,
+    "name": "Ngọc Sát Thương Chí Mạng 2",
+    "description": "Dùng để khảm trang bị. Tăng 30 Sát Thương Chí Mạng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 21083,
+    "itemType": 21000,
+    "name": "Ngọc Sát Thương Chí Mạng 3",
+    "description": "Dùng để khảm trang bị. Tăng 60 Sát Thương Chí Mạng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 21084,
+    "itemType": 21000,
+    "name": "Ngọc Sát Thương Chí Mạng 4",
+    "description": "Dùng để khảm trang bị. Tăng 90 Sát Thương Chí Mạng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 21085,
+    "itemType": 21000,
+    "name": "Ngọc Sát Thương Chí Mạng 5",
+    "description": "Dùng để khảm trang bị. Tăng 120 Sát Thương Chí Mạng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 21091,
+    "itemType": 21000,
+    "name": "Ngọc Tấn Công 1",
+    "description": "Dùng để khảm trang bị. Tăng 20 Tấn Công",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 21092,
+    "itemType": 21000,
+    "name": "Ngọc Tấn Công 2",
+    "description": "Dùng để khảm trang bị. Tăng 30 Tấn Công",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 21093,
+    "itemType": 21000,
+    "name": "Ngọc Tấn Công 3",
+    "description": "Dùng để khảm trang bị. Tăng 60 Tấn Công",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 21094,
+    "itemType": 21000,
+    "name": "Ngọc Tấn Công 4",
+    "description": "Dùng để khảm trang bị. Tăng 90 Tấn Công",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 21095,
+    "itemType": 21000,
+    "name": "Ngọc Tấn Công 5",
+    "description": "Dùng để khảm trang bị. Tăng 120 Tấn Công",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 21101,
+    "itemType": 21000,
+    "name": "Ngọc Tăng Belly 1",
+    "description": "Dùng để khảm trang bị. Tăng 0.15% Tăng Belly",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 21102,
+    "itemType": 21000,
+    "name": "Ngọc Tăng Belly 2",
+    "description": "Dùng để khảm trang bị. Tăng 0.23% Tăng Belly",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 21103,
+    "itemType": 21000,
+    "name": "Ngọc Tăng Belly 3",
+    "description": "Dùng để khảm trang bị. Tăng 0.45% Tăng Belly",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 21104,
+    "itemType": 21000,
+    "name": "Ngọc Tăng Belly 4",
+    "description": "Dùng để khảm trang bị. Tăng 0.68% Tăng Belly",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 21105,
+    "itemType": 21000,
+    "name": "Ngọc Tăng Belly 5",
+    "description": "Dùng để khảm trang bị. Tăng 0.90% Tăng Belly",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 21111,
+    "itemType": 21000,
+    "name": "Ngọc Thể Lực 1",
+    "description": "Dùng để khảm trang bị. Tăng 300 Thể lực",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 21112,
+    "itemType": 21000,
+    "name": "Ngọc Thể Lực 2",
+    "description": "Dùng để khảm trang bị. Tăng 450 Thể lực",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 21113,
+    "itemType": 21000,
+    "name": "Ngọc Thể Lực 3",
+    "description": "Dùng để khảm trang bị. Tăng 900 Thể lực",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 21114,
+    "itemType": 21000,
+    "name": "Ngọc Thể Lực 4",
+    "description": "Dùng để khảm trang bị. Tăng 1350 Thể lực",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 21115,
+    "itemType": 21000,
+    "name": "Ngọc Thể Lực 5",
+    "description": "Dùng để khảm trang bị. Tăng 1800 Thể lực",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 21121,
+    "itemType": 21000,
+    "name": "Ngọc Xuyên Giáp 1",
+    "description": "Dùng để khảm trang bị. Tăng 0.05% Xuyên Giáp",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 2,
+    "characterType": 0
+  },
+  {
+    "id": 21122,
+    "itemType": 21000,
+    "name": "Ngọc Xuyên Giáp 2",
+    "description": "Dùng để khảm trang bị. Tăng 0.08% Xuyên Giáp",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 3,
+    "characterType": 0
+  },
+  {
+    "id": 21123,
+    "itemType": 21000,
+    "name": "Ngọc Xuyên Giáp 3",
+    "description": "Dùng để khảm trang bị. Tăng 0.15% Xuyên Giáp",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 21124,
+    "itemType": 21000,
+    "name": "Ngọc Xuyên Giáp 4",
+    "description": "Dùng để khảm trang bị. Tăng 0.23% Xuyên Giáp",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 21125,
+    "itemType": 21000,
+    "name": "Ngọc Xuyên Giáp 5",
+    "description": "Dùng để khảm trang bị. Tăng 0.3% Xuyên Giáp",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 6,
+    "characterType": 0
+  },
+  {
+    "id": 22001,
+    "itemType": 22000,
+    "name": "Thẻ Người gỗ",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22002,
+    "itemType": 22000,
+    "name": "Thẻ Sơn tặc sơ cấp",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 3,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22003,
+    "itemType": 22000,
+    "name": "Thẻ Sơn tặc cao cấp",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 4,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22004,
+    "itemType": 22000,
+    "name": "Thẻ Hải tặc Alvida",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 6,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22005,
+    "itemType": 22000,
+    "name": "Thẻ Cận vệ Alvida",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 8,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22006,
+    "itemType": 22000,
+    "name": "Thẻ Cận vệ Alvida 2",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 9,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22007,
+    "itemType": 22000,
+    "name": "Thẻ Lính tập sự",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 11,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22008,
+    "itemType": 22000,
+    "name": "Thẻ Hạ sĩ hải quân",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 12,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22009,
+    "itemType": 22000,
+    "name": "Thẻ Trung sĩ hải quân",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 14,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22010,
+    "itemType": 22000,
+    "name": "Thẻ Jango",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 16,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22011,
+    "itemType": 22000,
+    "name": "Thẻ Helmeppo",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 18,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22012,
+    "itemType": 22000,
+    "name": "Thẻ Mohji",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 21,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22013,
+    "itemType": 22000,
+    "name": "Thẻ Richie",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 23,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22014,
+    "itemType": 22000,
+    "name": "Thẻ Funan áo cam",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 25,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22015,
+    "itemType": 22000,
+    "name": "Thẻ Funan áo xanh",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 27,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22016,
+    "itemType": 22000,
+    "name": "Thẻ Cabaji",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 29,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22017,
+    "itemType": 22000,
+    "name": "Thẻ Pinky",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 31,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22018,
+    "itemType": 22000,
+    "name": "Thẻ Cocox",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 32,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22019,
+    "itemType": 22000,
+    "name": "Thẻ Usagihebi",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 34,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22020,
+    "itemType": 22000,
+    "name": "Thẻ Lionbuta",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 36,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22021,
+    "itemType": 22000,
+    "name": "Thẻ Kirinkodanuki",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 37,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22022,
+    "itemType": 22000,
+    "name": "Thẻ Sham",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 38,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22023,
+    "itemType": 22000,
+    "name": "Thẻ Buchi",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 39,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22024,
+    "itemType": 22000,
+    "name": "Thẻ Hải tặc DonKrieg Áo xanh",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 41,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22025,
+    "itemType": 22000,
+    "name": "Thẻ Hải tặc DonKrieg Áo đỏ",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 43,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22026,
+    "itemType": 22000,
+    "name": "Thẻ Hải tặc DonKrieg cầm giáo",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 45,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22027,
+    "itemType": 22000,
+    "name": "Thẻ Hải tặc DonKrieg cầm giáo đỏ",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 47,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22028,
+    "itemType": 22000,
+    "name": "Thẻ Hải tặc DonKrieg đầu trọc",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 49,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22029,
+    "itemType": 22000,
+    "name": "Thẻ Shioyaki xanh",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 51,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22030,
+    "itemType": 22000,
+    "name": "Thẻ Shioyaki đỏ",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 53,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22031,
+    "itemType": 22000,
+    "name": "Thẻ Kaneshiro xanh",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 55,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22032,
+    "itemType": 22000,
+    "name": "Thẻ Kaneshiro đỏ",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 57,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22033,
+    "itemType": 22000,
+    "name": "Thẻ Hatchan màu hồng",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 58,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22034,
+    "itemType": 22000,
+    "name": "Thẻ Hatchan màu tím",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 59,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22035,
+    "itemType": 22000,
+    "name": "Thẻ Hải quân súng lục mũ xanh",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 61,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22036,
+    "itemType": 22000,
+    "name": "Thẻ Hải quân súng lục mũ đỏ",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 62,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22037,
+    "itemType": 22000,
+    "name": "Thẻ Hải quân súng Bazooka mũ xanh",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 63,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22038,
+    "itemType": 22000,
+    "name": "Thẻ Hải quân súng Bazooka mũ đỏ",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 65,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22039,
+    "itemType": 22000,
+    "name": "Thẻ Tashigi áo xanh",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 67,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22040,
+    "itemType": 22000,
+    "name": "Thẻ Tashigi áo hồng",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 68,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22041,
+    "itemType": 22000,
+    "name": "Thẻ Hina",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 69,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22042,
+    "itemType": 22000,
+    "name": "Thẻ Thợ săn tiền thưởng cầm kiếm",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 71,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22043,
+    "itemType": 22000,
+    "name": "Thẻ Thợ săn tiền thưởng cầm dao",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 72,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22044,
+    "itemType": 22000,
+    "name": "Thẻ Thợ săn tiền thưởng cầm rìu",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 73,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22045,
+    "itemType": 22000,
+    "name": "Thẻ Thợ săn tiền thưởng cầm súng lục",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 75,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22046,
+    "itemType": 22000,
+    "name": "Thẻ Thợ săn tiền thưởng cầm súng trường",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 76,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22047,
+    "itemType": 22000,
+    "name": "Thẻ Mr.9",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 77,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22048,
+    "itemType": 22000,
+    "name": "Thẻ Igaram",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 78,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22049,
+    "itemType": 22000,
+    "name": "Thẻ Jean Ango",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 79,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22050,
+    "itemType": 22000,
+    "name": "Thẻ Miss Valentine Vàng (Ô vàng)",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 81,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22051,
+    "itemType": 22000,
+    "name": "Thẻ Miss Valentine Đỏ (Ô đỏ)",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 82,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22052,
+    "itemType": 22000,
+    "name": "Thẻ Mrs. Doublefinger (Tóc xanh)",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 83,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22053,
+    "itemType": 22000,
+    "name": "Thẻ Mrs. Doublefinger (Tóc Đỏ)",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 84,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22054,
+    "itemType": 22000,
+    "name": "Thẻ Mr3 Áo xanh",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 85,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22055,
+    "itemType": 22000,
+    "name": "Thẻ Mr3 Áo Đỏ",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 86,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22056,
+    "itemType": 22000,
+    "name": "Thẻ Mr2 áo hồng",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 87,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22057,
+    "itemType": 22000,
+    "name": "Thẻ Mr2 áo tím",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 88,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22058,
+    "itemType": 22000,
+    "name": "Thẻ Mr. 1",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 89,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 22059,
+    "itemType": 22000,
+    "name": "Thẻ Avida Chùy sắt",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 10,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 22060,
+    "itemType": 22000,
+    "name": "Thẻ Morgan",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 20,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 22061,
+    "itemType": 22000,
+    "name": "Thẻ Buggy",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 30,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 22062,
+    "itemType": 22000,
+    "name": "Thẻ Kuro",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 40,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 22063,
+    "itemType": 22000,
+    "name": "Thẻ Pearl",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 50,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 22064,
+    "itemType": 22000,
+    "name": "Thẻ Ginn",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 50,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 22065,
+    "itemType": 22000,
+    "name": "Thẻ DonKrieg",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 50,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 22066,
+    "itemType": 22000,
+    "name": "Thẻ Arlong",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 60,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 22067,
+    "itemType": 22000,
+    "name": "Thẻ Smoker",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 70,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 22068,
+    "itemType": 22000,
+    "name": "Thẻ Mr. 5",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 80,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 22069,
+    "itemType": 22000,
+    "name": "Thẻ Crocodile",
+    "description": "Sử dụng để thêm vào Bộ Sưu Tập thẻ quái. Sưu tầm tất cả để trở lên mạnh hơn và nhận được những phần thưởng quý giá",
+    "canTrade": 1,
+    "levelRequire": 90,
+    "quality": 5,
+    "characterType": 0
+  },
+  {
+    "id": 23001,
+    "itemType": 23000,
+    "name": "Damage Skin 1",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 23002,
+    "itemType": 23000,
+    "name": "Damage Skin 2",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 23003,
+    "itemType": 23000,
+    "name": "Damage Skin 3",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 0,
+    "characterType": 0
+  },
+  {
+    "id": 24001,
+    "itemType": 24000,
+    "name": "Cờ cơ bản màu đen",
+    "description": "Cờ của một băng hải tặc có màu đen và không có tác dụng gì khác",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 24002,
+    "itemType": 24000,
+    "name": "Cờ cơ bản màu đỏ",
+    "description": "Cờ của một băng hải tặc có màu đỏ và không có tác dụng gì khác",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 24003,
+    "itemType": 24000,
+    "name": "Cờ cơ bản màu xanh lá",
+    "description": "Cờ của một băng hải tặc có màu xanh lá và không có tác dụng gì khác",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 24004,
+    "itemType": 24000,
+    "name": "Cờ cơ bản màu vàng",
+    "description": "Cờ của một băng hải tặc có màu vàng và không có tác dụng gì khác",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 24005,
+    "itemType": 24000,
+    "name": "Băng Hải Tặc Bách Thú",
+    "description": "Cờ Băng Hải Tặc Bách Thú, tăng 5% tấn công.",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 24006,
+    "itemType": 24000,
+    "name": "Băng Hải Tặc Big Mom",
+    "description": "Cờ Băng Hải Tặc Big Mom, tăng 5% phòng thủ.",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 24007,
+    "itemType": 24000,
+    "name": "Băng Hải Tặc Râu Đen",
+    "description": "Cờ Băng Hải Tặc Râu Đen, tăng 5% chí mạng.",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 24008,
+    "itemType": 24000,
+    "name": "Băng Hải Tặc Donquixote",
+    "description": "Cờ Băng Hải Tặc Donquixote, tăng 5% sát thương chí mạng.",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 24009,
+    "itemType": 24000,
+    "name": "Băng Hải Tặc Trái Tim",
+    "description": "Cờ Băng Hải Tặc Trái Tim tăng 5% né tránh.",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 24010,
+    "itemType": 24000,
+    "name": "Băng Hải Tặc Tóc Đỏ",
+    "description": "Cờ Băng Hải Tặc Tóc Đỏ, tăng 5% chính xác.",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 24011,
+    "itemType": 24000,
+    "name": "Băng Hải Tặc Rocks",
+    "description": "Cờ Băng Hải Tặc Rocks, tăng 5% HP.",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 24012,
+    "itemType": 24000,
+    "name": "Băng Hải Tặc Roger",
+    "description": "Cờ Băng Hải Tặc Roger, tăng 10% Thể lực.",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 24013,
+    "itemType": 24000,
+    "name": "Băng Hải Tặc Mũ Rơm",
+    "description": "Cờ Băng Hải Tặc Mũ Rơm, tăng 5% Kinh nghiệm.",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 24014,
+    "itemType": 24000,
+    "name": "Băng Hải Tặc Râu Trắng",
+    "description": "Cờ Băng Hải Tặc Râu Trắng, tăng 5% Belly nhặt được.",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 25001,
+    "itemType": 25000,
+    "name": "Banner cơ bản",
+    "description": "Vật trang trí cầu kỳ, không còn tác dụng gì.",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 25002,
+    "itemType": 25000,
+    "name": "Banner top 1",
+    "description": "Tăng sức mạnh cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 25003,
+    "itemType": 25000,
+    "name": "Banner top 2",
+    "description": "Tăng sức mạnh cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 25004,
+    "itemType": 25000,
+    "name": "Banner top 3",
+    "description": "Tăng sức mạnh cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 25005,
+    "itemType": 25000,
+    "name": "Banner Vàng kim",
+    "description": "Tăng 3% tấn công cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 25006,
+    "itemType": 25000,
+    "name": "Banner màu bạch kim",
+    "description": "Tăng 3% phòng thủ cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 25007,
+    "itemType": 25000,
+    "name": "Banner tím kim",
+    "description": "Tăng 3% chí mạng cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 25008,
+    "itemType": 25000,
+    "name": "Banner xanh lam kim",
+    "description": "Tăng 3% sát thương chí mạng cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 25009,
+    "itemType": 25000,
+    "name": "Banner xanh lục kim",
+    "description": "Tăng 3% né tránh cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 25010,
+    "itemType": 25000,
+    "name": "Banner Trắng kim",
+    "description": "Tăng 3% chính xác cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 25011,
+    "itemType": 25000,
+    "name": "Banner Bạc",
+    "description": "Tăng 3% HP cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 26001,
+    "itemType": 26000,
+    "name": "Khung tên cơ bản",
+    "description": "Vật trang trí cầu kỳ, không còn tác dụng gì.",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 26002,
+    "itemType": 26000,
+    "name": "Khung tên top 1",
+    "description": "Tăng sức mạnh cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 26003,
+    "itemType": 26000,
+    "name": "Khung tên top 2",
+    "description": "Tăng sức mạnh cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 26004,
+    "itemType": 26000,
+    "name": "Khung tên top 3",
+    "description": "Tăng sức mạnh cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 26005,
+    "itemType": 26000,
+    "name": "Khung tên Vàng kim",
+    "description": "Tăng 2% chí mạng cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 26006,
+    "itemType": 26000,
+    "name": "Khung tên màu bạch kim",
+    "description": "Tăng 2% tấn công cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 26007,
+    "itemType": 26000,
+    "name": "Khung tên tím kim",
+    "description": "Tăng 2% né tránh cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 26008,
+    "itemType": 26000,
+    "name": "Khung tên xanh lam kim",
+    "description": "Tăng 2% phòng thủ cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 26009,
+    "itemType": 26000,
+    "name": "Khung tên xanh lục kim",
+    "description": "Tăng 2% HP cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 26010,
+    "itemType": 26000,
+    "name": "Khung tên trắng kim",
+    "description": "Tăng 2% sát thương chí mạng cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  },
+  {
+    "id": 26011,
+    "itemType": 26000,
+    "name": "Khung tên Bạc",
+    "description": "Tăng 2% chính xác cho các thành viên của Băng",
+    "canTrade": 0,
+    "levelRequire": 1,
+    "quality": 4,
+    "characterType": 0
+  }
+]

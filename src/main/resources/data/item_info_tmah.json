@@ -1,0 +1,4617 @@
+[
+  {
+    "id": 1,
+    "infoId": 0,
+    "itemType": 1,
+    "description": "",
+    "name": "Bạc",
+    "canTrade": 1,
+    "levelRequire": 1
+  },
+  {
+    "id": 2,
+    "infoId": 0,
+    "itemType": 2,
+    "description": "",
+    "name": "Vàng",
+    "levelRequire": 0
+  },
+  {
+    "id": 3,
+    "infoId": 0,
+    "itemType": 3,
+    "description": "",
+    "name": "Điểm năng động",
+    "canTrade": 1,
+    "levelRequire": 0
+  },
+  {
+    "id": 4,
+    "infoId": 0,
+    "itemType": 4,
+    "description": "",
+    "name": "Ruby",
+    "levelRequire": 1
+  },
+  {
+    "id": 5,
+    "infoId": 0,
+    "itemType": 5,
+    "description": "",
+    "name": "Exp",
+    "canTrade": 0,
+    "levelRequire": 0
+  },
+  {
+    "id": 6,
+    "infoId": 0,
+    "itemType": 6,
+    "description": "",
+    "name": "Vé Bạc",
+    "canTrade": 0,
+    "levelRequire": 0
+  },
+  {
+    "id": 7,
+    "infoId": 0,
+    "itemType": 7,
+    "description": "",
+    "name": "Điểm cống hiến",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 8,
+    "infoId": 0,
+    "itemType": 8,
+    "description": "",
+    "name": "Vàng bang hội",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 9,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 9,
+    "description": "Dùng để nâng cấp Quan ấn, Thú cưng",
+    "name": "Phỉ thúy xanh lục",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 10,
+    "description": "Là loại đá vô cùng quý hiếm, gia tăng sức mạnh của trang bị",
+    "name": "Phỉ thúy xanh lam",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 11,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 11,
+    "description": "Là loại đá vô cùng quý hiếm, dùng để nâng cấp trang bị",
+    "name": "Đá cường hóa",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 12,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 12,
+    "description": "Là loại đá vô cùng quý hiếm, dùng để tẩy chỉ số quan ấn",
+    "name": "Đá tẩy quan ấn",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 23,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 23,
+    "description": "Dùng để tẩy điểm tiềm năng",
+    "name": "Thẻ tẩy tiềm năng",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 24,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 24,
+    "description": "Dùng để gia tăng số lượng thành viên tối đa của bang hội",
+    "name": "Mở rộng bang hội",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 25,
+    "quality": 5,
+    "infoId": 0,
+    "itemType": 25,
+    "description": "Tăng 10 ô chứa trong túi đồ",
+    "name": "Mở rộng túi đồ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 26,
+    "infoId": 0,
+    "itemType": 26,
+    "description": "Dùng để tham gia phó bản",
+    "name": "Cờ lệnh",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 27,
+    "infoId": 0,
+    "itemType": 27,
+    "description": "Dùng để ghép rương cực phẩm",
+    "name": "Mảnh rương cực phẩm",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30,
+    "infoId": 0,
+    "itemType": 30,
+    "description": "",
+    "name": "Rương nổ hũ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 31,
+    "infoId": 0,
+    "itemType": 31,
+    "description": "Dùng 100 mảnh để ghép mảnh sách kĩ năng",
+    "name": "Mảnh sách mở kĩ năng",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 32,
+    "infoId": 0,
+    "itemType": 32,
+    "description": "Sử dụng để nhận được 1 điểm kĩ năng",
+    "name": "Sách mở kĩ năng",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 33,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 33,
+    "description": "Nhận được những phần quà vô cùng giá trị",
+    "name": "Hộp quà năng động",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 34,
+    "infoId": 0,
+    "itemType": 34,
+    "description": "Dùng để tẩy kĩ năng",
+    "name": "Tẩy kỹ năng",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 35,
+    "infoId": 0,
+    "itemType": 35,
+    "description": "Dùng để mở khóa cấp",
+    "name": "Thẻ mở cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 36,
+    "infoId": 0,
+    "itemType": 36,
+    "description": "Dùng để chuyển hóa trang bị từ +8 đến +11",
+    "name": "Vé chuyển hóa sơ cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 37,
+    "infoId": 0,
+    "itemType": 37,
+    "description": "Dùng để chuyển hóa trang bị từ +12 đến +15",
+    "name": "Vé chuyển hóa trung cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 38,
+    "infoId": 0,
+    "itemType": 38,
+    "description": "Dùng để chuyển hóa trang bị từ +16 đến +20",
+    "name": "Vé chuyển hóa cao cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 41,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 40,
+    "description": "Hồi 5000 sinh lực trong thời gian 5s",
+    "name": "Bánh tráng mè",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 42,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 40,
+    "description": "Hồi 20000 sinh lực trong thời gian 5s",
+    "name": "Cốm",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 43,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 40,
+    "description": "Hồi 100000 sinh lực trong thời gian 5s",
+    "name": "Bánh dày",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 44,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 40,
+    "description": "Hồi 200000 sinh lực trong thời gian 5s",
+    "name": "Bánh trôi nước",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 45,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 40,
+    "description": "Hồi 5000 năng lượng trong thời gian 5s",
+    "name": "Rượu nếp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 46,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 40,
+    "description": "Hồi 20000 năng lượng trong thời gian 5s",
+    "name": "Rượu ngô",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 47,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 40,
+    "description": "Hồi 100000 năng lượng trong thời gian 5s",
+    "name": "Rượu đậu xanh",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 48,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 40,
+    "description": "Hồi 200000 năng lượng trong thời gian 5s",
+    "name": "Rượu báu đá",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 61,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 61,
+    "description": "Dùng để nâng cấp thú cưỡi",
+    "name": "Đá luyện thú",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 62,
+    "quality": 1,
+    "infoId": 0,
+    "itemType": 62,
+    "description": "Dùng để quay vòng quay Bạc",
+    "name": "Phù điêu Bạc",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 63,
+    "quality": 2,
+    "infoId": 0,
+    "itemType": 63,
+    "description": "Dùng để quay vòng quay Vàng",
+    "name": "Phù điêu Vàng",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 64,
+    "quality": 3,
+    "infoId": 0,
+    "itemType": 64,
+    "description": "Dùng để quay vòng quay Vàng",
+    "name": "Phù điêu Kim Cương",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 66,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 66,
+    "description": "Bảo vệ trang bị cường hóa +5 trở xuống",
+    "name": "Đá bảo hiểm Sơ Cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 67,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 67,
+    "description": "Bảo vệ trang bị cường hóa từ +6 đến +10",
+    "name": "Đá bảo hiểm Trung Cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 68,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 68,
+    "description": "Bảo vệ trang bị cường hóa +11 đến +15",
+    "name": "Đá bảo hiểm Cao Cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 69,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 69,
+    "description": "Bảo vệ trang bị cường hóa từ +15 đến +20",
+    "name": "Đá bảo hiểm Siêu Cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 70,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 70,
+    "description": "Tăng x2 tỉ lệ thành công khi nâng cấp",
+    "name": "Bùa may mắn",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 71,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 71,
+    "description": "",
+    "name": "Điểm thử thách",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 77,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 77,
+    "description": "Xóa bỏ điểm tàn ác",
+    "name": "Nước rửa tội",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 78,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 78,
+    "description": "Có thể mở hộp quà năng động",
+    "name": "Chìa khóa",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 83,
+    "infoId": 0,
+    "itemType": 83,
+    "description": "",
+    "name": "Vé tặng vàng",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 84,
+    "infoId": 0,
+    "itemType": 84,
+    "description": "",
+    "name": "Vé tặng ngọc",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 91,
+    "infoId": 0,
+    "itemType": 90,
+    "description": "Vật phẩm nhiệm vụ",
+    "name": "Nọc rắn",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 92,
+    "infoId": 0,
+    "itemType": 90,
+    "description": "Vật phẩm nhiệm vụ",
+    "name": "Thư giới thiệu",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 93,
+    "infoId": 0,
+    "itemType": 90,
+    "description": "Vật phẩm nhiệm vụ",
+    "name": "Mảnh vải",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 101,
+    "quality": 5,
+    "infoId": 0,
+    "itemType": 101,
+    "description": "Dùng để nâng các Bách gia tuyệt kỹ bậc SSS",
+    "name": "Sách nâng Bách gia tuyệt kỹ bậc SSS",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 102,
+    "quality": 4,
+    "infoId": 0,
+    "itemType": 102,
+    "description": "Dùng để nâng các Bách gia tuyệt kỹ bậc SS",
+    "name": "Sách nâng Bách gia tuyệt kỹ bậc SS",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 103,
+    "quality": 3,
+    "infoId": 0,
+    "itemType": 103,
+    "description": "Dùng để nâng các Bách gia tuyệt kỹ bậc S",
+    "name": "Sách nâng Bách gia tuyệt kỹ bậc S",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 104,
+    "quality": 2,
+    "infoId": 0,
+    "itemType": 104,
+    "description": "Dùng để nâng các Bách gia tuyệt kỹ bậc A",
+    "name": "Sách nâng Bách gia tuyệt kỹ bậc A",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 105,
+    "quality": 1,
+    "infoId": 0,
+    "itemType": 105,
+    "description": "Dùng để nâng các Bách gia tuyệt kỹ bậc B",
+    "name": "Sách nâng Bách gia tuyệt kỹ bậc B",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 106,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 106,
+    "description": "Dùng để nâng các Bách gia tuyệt kỹ bậc C",
+    "name": "Sách nâng Bách gia tuyệt kỹ bậc C",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 111,
+    "quality": 5,
+    "infoId": 0,
+    "itemType": 110,
+    "description": "Dùng 100 mảnh để ghép sách nâng cấp Bách gia tuyệt kỹ bậc SSS",
+    "name": "Mảnh sách nâng Bách gia tuyệt kỹ bậc SSS",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 112,
+    "quality": 4,
+    "infoId": 0,
+    "itemType": 110,
+    "description": "Dùng 100 mảnh để ghép sách nâng cấp Bách gia tuyệt kỹ bậc SS",
+    "name": "Mảnh sách nâng Bách gia tuyệt kỹ bậc SS",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 113,
+    "quality": 3,
+    "infoId": 0,
+    "itemType": 110,
+    "description": "Dùng 100 mảnh để ghép sách nâng cấp Bách gia tuyệt kỹ bậc S",
+    "name": "Mảnh sách nâng Bách gia tuyệt kỹ bậc S",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 114,
+    "quality": 2,
+    "infoId": 0,
+    "itemType": 110,
+    "description": "Dùng 100 mảnh để ghép sách nâng cấp Bách gia tuyệt kỹ bậc A",
+    "name": "Mảnh sách nâng Bách gia tuyệt kỹ bậc A",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 115,
+    "quality": 1,
+    "infoId": 0,
+    "itemType": 110,
+    "description": "Dùng 100 mảnh để ghép sách nâng cấp Bách gia tuyệt kỹ bậc B",
+    "name": "Mảnh sách nâng Bách gia tuyệt kỹ bậc B",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 116,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 110,
+    "description": "Dùng 100 mảnh để ghép sách nâng cấp Bách gia tuyệt kỹ bậc C",
+    "name": "Mảnh sách nâng Bách gia tuyệt kỹ bậc C",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 120,
+    "infoId": 0,
+    "itemType": 120,
+    "description": "",
+    "name": "Sách học kỹ năng đệ tử",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 121,
+    "infoId": 0,
+    "itemType": 121,
+    "description": "",
+    "name": "Nước tăng lực",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 122,
+    "infoId": 0,
+    "itemType": 122,
+    "description": "",
+    "name": "Sữa dâu",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 123,
+    "infoId": 0,
+    "itemType": 123,
+    "description": "",
+    "name": "Giáp kim cương",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 124,
+    "infoId": 0,
+    "itemType": 124,
+    "description": "",
+    "name": "Bùa exp đệ tử",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 125,
+    "infoId": 0,
+    "itemType": 125,
+    "description": "",
+    "name": "Bùa tấn công đệ tử",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 126,
+    "infoId": 0,
+    "itemType": 126,
+    "description": "",
+    "name": "Bùa phòng thủ đệ tử",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 127,
+    "infoId": 0,
+    "itemType": 127,
+    "description": "",
+    "name": "Thẻ uế thổ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 210,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 200,
+    "description": "Mở ra mảnh sách nâng cấp Bách gia tuyệt kỹ ngẫu nhiên",
+    "name": "Rương mảnh sách nâng cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 211,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 200,
+    "description": "Mở ra các vật phẩm cực kì giá trị",
+    "name": "Rương đặc biệt",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 212,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 200,
+    "description": "Mở ra sách nâng cấp Bách gia tuyệt kỹ ngẫu nhiên",
+    "name": "Rương sách nâng cấp Bách gia tuyệt kỹ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 213,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 200,
+    "description": "Mở ra trang bị đỏ 2x",
+    "name": "Rương cực phẩm 2x",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 214,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 200,
+    "description": "Mở ra trang bị đỏ 4x",
+    "name": "Rương cực phẩm 4x",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 215,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 200,
+    "description": "Mở ra trang bị đỏ 5x",
+    "name": "Rương cực phẩm 5x",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 221,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 200,
+    "description": "Ngẫu nhiên nhận được 1 trang bị hiếm",
+    "name": "Túi quà tím",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 226,
+    "infoId": 0,
+    "itemType": 200,
+    "description": "",
+    "name": "Túi Bạc",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 227,
+    "infoId": 0,
+    "itemType": 200,
+    "description": "Mở ra vé quay ngẫu nhiên",
+    "name": "Túi vé quay",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 228,
+    "quality": 3,
+    "infoId": 0,
+    "itemType": 200,
+    "description": "Ngẫu nhiên nhận được 1 thú cưng",
+    "name": "Trứng Vĩ Thú",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 301,
+    "name": "Mảnh trang phục môn phái",
+    "itemType": 300,
+    "description": "Dùng 100 mảnh để ghép trang phục môn phái",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 302,
+    "name": "Mảnh trang phục Âu Lạc",
+    "itemType": 300,
+    "description": "Dùng 1000 mảnh để ghép trang phục Âu Lạc",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 303,
+    "name": "Mảnh trang phục Thánh Gióng",
+    "itemType": 300,
+    "description": "Dùng 1000 mảnh để ghép trang phục Thánh Gióng",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 304,
+    "name": "Mảnh trang phục Mùa Xuân",
+    "itemType": 300,
+    "description": "Dùng 1000 mảnh để ghép trang phục Mùa Xuân",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 321,
+    "name": "Mảnh quan ấn Chu Tước",
+    "itemType": 320,
+    "description": "Dùng 1000 mảnh để ghép quan ấn Chu Tước",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 322,
+    "name": "Mảnh quan ấn Thanh Long",
+    "itemType": 320,
+    "description": "Dùng 1000 mảnh để ghép quan ấn Thanh Long",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 323,
+    "name": "Mảnh quan ấn Bạch Hổ",
+    "itemType": 320,
+    "description": "Dùng 1000 mảnh để ghép quan ấn Bạch Hổ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 324,
+    "name": "Mảnh quan ấn Huyền Vũ",
+    "itemType": 320,
+    "description": "Dùng 1000 mảnh để ghép quan ấn Huyền Vũ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 325,
+    "name": "Mảnh quan ấn Kì Lân",
+    "itemType": 320,
+    "description": "Dùng 1000 mảnh để ghép quan ấn Kì Lân",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 331,
+    "name": "Mảnh Chiến thần thủy chiến",
+    "itemType": 330,
+    "description": "Dùng 1000 mảnh để ghép danh hiệu Chiến thần thủy chiến",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 332,
+    "name": "Mảnh Con cháu Lạc Hồng",
+    "itemType": 330,
+    "description": "Dùng 1000 mảnh để ghép danh hiệu Con cháu Lạc Hồng",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 333,
+    "name": "Mảnh Con rể Vua Hùng",
+    "itemType": 330,
+    "description": "Dùng 1000 mảnh để ghép danh hiệu Con rể Vua Hùng",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 334,
+    "name": "Mảnh Anh hùng áo vải",
+    "itemType": 330,
+    "description": "Dùng 1000 mảnh để ghép danh hiệu Anh hùng áo vải",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 335,
+    "name": "Mảnh Nghĩa sĩ An Nam",
+    "itemType": 330,
+    "description": "Dùng 1000 mảnh để ghép danh hiệu Nghĩa sĩ An Nam",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 336,
+    "name": "Mảnh Hào kiệt quả cảm",
+    "itemType": 330,
+    "description": "Dùng 1000 mảnh để ghép danh hiệu Hào kiệt quả cảm",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 337,
+    "name": "Mảnh Mãnh tướng Tây Sơn",
+    "itemType": 330,
+    "description": "Dùng 1000 mảnh để ghép danh hiệu Mãnh tướng Tây Sơn",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 338,
+    "name": "Mảnh Kẻ diệt sơn tặc",
+    "itemType": 330,
+    "description": "Dùng 1000 mảnh để ghép danh hiệu Kẻ diệt sơn tặc",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 339,
+    "name": "Mảnh Tiểu chiến thần",
+    "itemType": 330,
+    "description": "Dùng 1000 mảnh để ghép danh hiệu Tiểu chiến thần",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 340,
+    "name": "Mảnh Diệt phù thủy",
+    "itemType": 330,
+    "description": "Dùng 1000 mảnh để ghép danh hiệu Diệt phù thủy",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 341,
+    "name": "Mảnh Đại Bang Hội",
+    "itemType": 330,
+    "description": "Dùng 1000 mảnh để ghép danh hiệu Đại Bang Hội",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 401,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x2 kinh nghiệm (trong 1 giờ)",
+    "name": "Thẻ x2 kinh nghiệm",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 402,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x4 kinh nghiệm (trong 1 giờ)",
+    "name": "Thẻ x4 kinh nghiệm",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 403,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x8 kinh nghiệm (trong 1 giờ)",
+    "name": "Thẻ x8 kinh nghiệm",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 404,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x2 Bạc nhận được (trong 1 giờ)",
+    "name": "Thẻ X2 Bạc",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 405,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x4 Bạc nhận được (trong 1 giờ)",
+    "name": "Thẻ X4 Bạc",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 406,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x8 Bạc nhận được (trong 1 giờ)",
+    "name": "Thẻ X8 Bạc",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 407,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Hồi 5 sinh lực/năng lượng mỗi giây trong 60 phút",
+    "name": "Cơm nắm",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 408,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Hồi 10 sinh lực/năng lượng mỗi giây trong 60 phút",
+    "name": "Chuối ngự",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 409,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Hồi 20 sinh lực/năng lượng mỗi giây trong 60 phút",
+    "name": "Mắm tép",
+    "canTrade": 0,
+    "levelRequire": 20
+  },
+  {
+    "id": 410,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Hồi 50 sinh lực/năng lượng mỗi giây trong 60 phút",
+    "name": "Gà Đông Tảo",
+    "canTrade": 0,
+    "levelRequire": 30
+  },
+  {
+    "id": 411,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Hồi 100 sinh lực/năng lượng mỗi giây trong 60 phút",
+    "name": "Sâm cầm hồ Tây",
+    "canTrade": 0,
+    "levelRequire": 40
+  },
+  {
+    "id": 412,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Hồi 200 sinh lực/năng lượng mỗi giây trong 60 phút",
+    "name": "Yến sào",
+    "canTrade": 0,
+    "levelRequire": 50
+  },
+  {
+    "id": 413,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Hồi 300 sinh lực/năng lượng mỗi giây trong 60 phút",
+    "name": "Cá Anh Vũ",
+    "canTrade": 0,
+    "levelRequire": 60
+  },
+  {
+    "id": 414,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x2 sinh lực trong thời gian 10 phút",
+    "name": "Thuốc sinh lực",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 415,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x1,5 tấn công trong thời gian 10 phút",
+    "name": "Thuốc tấn công",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 416,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Giảm 50% sát thương nhận vào trong thời gian 10 phút",
+    "name": "Thuốc phòng thủ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 417,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x1,5 lần kinh nghiệm từ quái",
+    "name": "Bùa kinh nghiệm 1 ngày",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 418,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x1,5 lần kinh nghiệm từ quái",
+    "name": "Bùa kinh nghiệm 7 ngày",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 419,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x1,5 lần kinh nghiệm từ quái",
+    "name": "Bùa kinh nghiệm 30 ngày",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 420,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Giảm 50% sát thương từ quái",
+    "name": "Bùa phòng thủ 1 ngày",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 421,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Giảm 50% sát thương từ quái",
+    "name": "Bùa phòng thủ 7 ngày",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 422,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Giảm 50% sát thương từ quái",
+    "name": "Bùa phòng thủ 30 ngày",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 423,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x1,5 tấn công lên quái",
+    "name": "Bùa tấn công 1 ngày",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 424,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x1,5 tấn công lên quái",
+    "name": "Bùa tấn công 7 ngày",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 425,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x1,5 tấn công lên quái",
+    "name": "Bùa tấn công 30 ngày",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 432,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x1,5 lần kinh nghiệm từ quái",
+    "name": "Bùa kinh nghiệm 3h",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 433,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x1,5 tấn công lên quái",
+    "name": "Bùa tấn công 3h",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 434,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Giảm 50% sát từ quái",
+    "name": "Bùa phòng thủ 3h",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 435,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Không bị đồ sát khi ở chế độ Hòa Bình. Nếu bật PK sẽ mất tác dụng",
+    "name": "Bùa bảo vệ 3h",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 436,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Không bị đồ sát khi ở chế độ Hòa Bình. Nếu bật PK sẽ mất tác dụng",
+    "name": "Bùa bảo vệ 1 ngày",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 437,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Không bị đồ sát khi ở chế độ Hòa Bình. Nếu bật PK sẽ mất tác dụng",
+    "name": "Bùa bảo vệ 7 ngày",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 438,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Không bị đồ sát khi ở chế độ Hòa Bình. Nếu bật PK sẽ mất tác dụng",
+    "name": "Bùa bảo vệ 30 ngày",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 439,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x2 lượng Vé Bạc nhặt được (trong 1 giờ)",
+    "name": "Thẻ x2 Vé Bạc",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 440,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x4 lượng Vé Bạc nhặt được (trong 1 giờ)",
+    "name": "Thẻ x4 Vé Bạc",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 441,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x8 lượng Vé Bạc nhặt được (trong 1 giờ)",
+    "name": "Thẻ x8 Vé Bạc",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 442,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Nhân vật không thể lên cấp trong thời gian sử dụng thẻ",
+    "name": "Thẻ khoá cấp 7 ngày",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 443,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Nhân vật không thể lên cấp trong thời gian sử dụng thẻ",
+    "name": "Thẻ khoá cấp 1 tháng",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 444,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Dùng để vào các bản đồ VIP",
+    "name": "Thẻ map vip",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 445,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng 1000 điểm tốc độ đánh",
+    "name": "Bùa tốc đánh 1 ngày",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 446,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Tăng x1,5 tấn công lên quái",
+    "name": "Bùa tấn công 1h",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 447,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Giảm 50% sát từ quái",
+    "name": "Bùa phòng thủ 1h",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 448,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 400,
+    "description": "Không bị đồ sát khi ở chế độ Hòa Bình. Nếu bật PK sẽ mất tác dụng",
+    "name": "Bùa bảo vệ 1h",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 501,
+    "quality": 3,
+    "infoId": 0,
+    "itemType": 500,
+    "description": "Học Bách gia tuyệt kỹ chủ động Huyền Quy Hộ Thể",
+    "name": "Sách mở Bách gia tuyệt kỹ Huyền Quy Hộ Thể",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 502,
+    "quality": 3,
+    "infoId": 0,
+    "itemType": 500,
+    "description": "Học Bách gia tuyệt kỹ chủ động Sơn Tinh Ngự Phong",
+    "name": "Sách mở Bách gia tuyệt kỹ Sơn Tinh Ngự Phong",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 503,
+    "quality": 2,
+    "infoId": 0,
+    "itemType": 500,
+    "description": "Học Bách gia tuyệt kỹ chủ động Non Sông Họa Thủy",
+    "name": "Sách mở Bách gia tuyệt kỹ Non Sông Họa Thủy",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 504,
+    "quality": 1,
+    "infoId": 0,
+    "itemType": 500,
+    "description": "Học Bách gia tuyệt kỹ chủ động Thần Nông Phù Trợ",
+    "name": "Sách mở Bách gia tuyệt kỹ Thần Nông Phù Trợ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 505,
+    "quality": 1,
+    "infoId": 0,
+    "itemType": 500,
+    "description": "Học Bách gia tuyệt kỹ chủ động Thánh Gióng Tương Trợ",
+    "name": "Sách mở Bách gia tuyệt kỹ Thánh Gióng Tương Trợ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 551,
+    "quality": 2,
+    "infoId": 0,
+    "itemType": 500,
+    "description": "Học Bách gia tuyệt kỹ bị động Dưỡng Huyết Công",
+    "name": "Sách mở Bách gia tuyệt kỹ Dưỡng Huyết Công",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 552,
+    "quality": 1,
+    "infoId": 0,
+    "itemType": 500,
+    "description": "Học Bách gia tuyệt kỹ bị động Ngưng Thần Tụ Khí",
+    "name": "Sách mở Bách gia tuyệt kỹ Ngưng Thần Tụ Khí",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 553,
+    "quality": 1,
+    "infoId": 0,
+    "itemType": 500,
+    "description": "Học Bách gia tuyệt kỹ bị động Lửa Nộ Nghĩa Binh",
+    "name": "Sách mở Bách gia tuyệt kỹ Lửa Nộ Nghĩa Binh",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 554,
+    "quality": 2,
+    "infoId": 0,
+    "itemType": 500,
+    "description": "Học Bách gia tuyệt kỹ bị động Chiến Tâm Bất Diệt",
+    "name": "Sách mở Bách gia tuyệt kỹ Chiến Tâm Bất Diệt",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 555,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 500,
+    "description": "Học Bách gia tuyệt kỹ bị động Chân Khí Hộ Thể",
+    "name": "Sách mở Bách gia tuyệt kỹ Chân Khí Hộ Thể",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 601,
+    "quality": 3,
+    "infoId": 0,
+    "itemType": 600,
+    "description": "Dùng 1000 mảnh để ghép sách Bách gia tuyệt kỹ Huyền Quy Hộ Thể",
+    "name": "Mảnh sách Bách gia tuyệt kỹ Huyền Quy Hộ Thể",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 602,
+    "quality": 3,
+    "infoId": 0,
+    "itemType": 600,
+    "description": "Dùng 100 mảnh để ghép sách Bách gia tuyệt kỹ Sơn Tinh Ngự Phong",
+    "name": "Mảnh sách Bách gia tuyệt kỹ Sơn Tinh Ngự Phong",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 603,
+    "quality": 2,
+    "infoId": 0,
+    "itemType": 600,
+    "description": "Dùng 1000 mảnh để ghép sách Bách gia tuyệt kỹ Non Sông Họa Thủy",
+    "name": "Mảnh sách Bách gia tuyệt kỹ Non Sông Họa Thủy",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 604,
+    "quality": 1,
+    "infoId": 0,
+    "itemType": 600,
+    "description": "Dùng 100 mảnh để ghép sách Bách gia tuyệt kỹ Thần Nông Phù Trợ",
+    "name": "Mảnh sách Bách gia tuyệt kỹ Thần Nông Phù Trợ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 605,
+    "quality": 1,
+    "infoId": 0,
+    "itemType": 600,
+    "description": "Dùng 100 mảnh để ghép sách Bách gia tuyệt kỹ Thánh Gióng Tương Trợ",
+    "name": "Mảnh sách Bách gia tuyệt kỹ Thánh Gióng Tương Trợ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 651,
+    "quality": 2,
+    "infoId": 0,
+    "itemType": 600,
+    "description": "Dùng 100 mảnh để ghép sách Bách gia tuyệt kỹ Dưỡng Huyết Công",
+    "name": "Mảnh sách nâng Bách gia tuyệt kỹ Dưỡng Huyết Công",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 652,
+    "quality": 1,
+    "infoId": 0,
+    "itemType": 600,
+    "description": "Dùng 100 mảnh để ghép sách Bách gia tuyệt kỹ Ngưng Thần Tụ Khí",
+    "name": "Mảnh sách nâng Bách gia tuyệt kỹ Ngưng Thần Tụ Khí",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 653,
+    "quality": 1,
+    "infoId": 0,
+    "itemType": 600,
+    "description": "Dùng 100 mảnh để ghép sách Bách gia tuyệt kỹ Lửa Nộ Nghĩa Binh",
+    "name": "Mảnh sách nâng Bách gia tuyệt kỹ Lửa Nộ Nghĩa Binh",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 654,
+    "quality": 2,
+    "infoId": 0,
+    "itemType": 600,
+    "description": "Dùng 100 mảnh để ghép sách Bách gia tuyệt kỹ Chiến Tâm Bất Diệt",
+    "name": "Mảnh sách nâng Bách gia tuyệt kỹ Chiến Tâm Bất Diệt",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 655,
+    "quality": 4,
+    "infoId": 0,
+    "itemType": 600,
+    "description": "Dùng 100 mảnh để ghép sách Bách gia tuyệt kỹ Chân Khí Hộ Thể",
+    "name": "Mảnh sách nâng Bách gia tuyệt kỹ Chân Khí Hộ Thể",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 701,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 700,
+    "description": "+ Tấn công 1%",
+    "name": " Đá tấn công 1",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 702,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 700,
+    "description": "+ Tấn công 2%",
+    "name": " Đá tấn công 2",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 703,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 700,
+    "description": "+ Tấn công 3%",
+    "name": " Đá tấn công 3",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 704,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 700,
+    "description": "+ Tấn công 4%",
+    "name": " Đá tấn công 4",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 705,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 700,
+    "description": "+ Tấn công 5%",
+    "name": " Đá tấn công 5",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 706,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 700,
+    "description": "+ Tấn công 6%",
+    "name": " Đá tấn công 6",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 711,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 710,
+    "description": "+ Sinh lực 1%",
+    "name": " Đá sinh lực 1",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 712,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 710,
+    "description": "+ Sinh lực 2%",
+    "name": " Đá sinh lực 2",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 713,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 710,
+    "description": "+ Sinh lực 3%",
+    "name": " Đá sinh lực 3",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 714,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 710,
+    "description": "+ Sinh lực 4%",
+    "name": " Đá sinh lực 4",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 715,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 710,
+    "description": "+ Sinh lực 5%",
+    "name": " Đá sinh lực 5",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 716,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 710,
+    "description": "+ Sinh lực 6%",
+    "name": " Đá sinh lực 6",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 721,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 720,
+    "description": "+ Năng lượng 1%",
+    "name": " Đá Năng lượng 1",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 722,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 720,
+    "description": "+ Năng lượng 2%",
+    "name": " Đá Năng lượng 2",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 723,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 720,
+    "description": "+ Năng lượng 3%",
+    "name": " Đá Năng lượng 3",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 724,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 720,
+    "description": "+ Năng lượng 4%",
+    "name": " Đá Năng lượng 4",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 725,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 720,
+    "description": "+ Năng lượng 5%",
+    "name": " Đá Năng lượng 5",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 726,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 720,
+    "description": "+ Năng lượng 6%",
+    "name": " Đá Năng lượng 6",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+
+  {
+    "id": 731,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 730,
+    "description": "+ Phòng thủ 1%",
+    "name": "Đá phòng thủ 1",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 732,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 730,
+    "description": "+ Phòng thủ 2%",
+    "name": "Đá phòng thủ 2",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 733,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 730,
+    "description": "+ Phòng thủ 3%",
+    "name": "Đá phòng thủ 3",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 734,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 730,
+    "description": "+ Phòng thủ 4%",
+    "name": "Đá phòng thủ 4",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 735,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 730,
+    "description": "+ Phòng thủ 5%",
+    "name": "Đá phòng thủ 5",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 736,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 730,
+    "description": "+ Phòng thủ 6%",
+    "name": "Đá phòng thủ 6",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 741,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 740,
+    "description": "+ Chí mạng 1%",
+    "name": "Đá chí mạng 1",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 742,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 740,
+    "description": "+ Chí mạng 2%",
+    "name": "Đá chí mạng 2",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 743,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 740,
+    "description": "+ Chí mạng 3%",
+    "name": "Đá chí mạng 3",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 744,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 740,
+    "description": "+ Chí mạng 4%",
+    "name": "Đá chí mạng 4",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 745,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 740,
+    "description": "+ Chí mạng 5%",
+    "name": "Đá chí mạng 5",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 746,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 740,
+    "description": "+ Chí mạng 6%",
+    "name": "Đá chí mạng 6",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 751,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 750,
+    "description": "+ Sát thương chí mạng 1%",
+    "name": "Đá sát thương chí mạng 1",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 752,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 750,
+    "description": "+ Sát thương chí mạng 2%",
+    "name": "Đá sát thương chí mạng 2",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 753,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 750,
+    "description": "+ Sát thương chí mạng 3%",
+    "name": "Đá sát thương chí mạng 3",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 754,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 750,
+    "description": "+ Sát thương chí mạng 4%",
+    "name": "Đá sát thương chí mạng 4",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 755,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 750,
+    "description": "+ Sát thương chí mạng 5%",
+    "name": "Đá sát thương chí mạng 5",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 756,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 750,
+    "description": "+ Sát thương chí mạng 6%",
+    "name": "Đá sát thương chí mạng 6",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 761,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 760,
+    "description": "+ Kinh nghiệm 5%",
+    "name": "Đá kinh nghiệm 1",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 762,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 760,
+    "description": "+ Kinh nghiệm 6%",
+    "name": "Đá kinh nghiệm 2",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 763,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 760,
+    "description": "+ Kinh nghiệm 7%",
+    "name": "Đá kinh nghiệm 3",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 764,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 760,
+    "description": "+ Kinh nghiệm 8%",
+    "name": "Đá kinh nghiệm 4",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 765,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 760,
+    "description": "+ Kinh nghiệm 9%",
+    "name": "Đá kinh nghiệm 5",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 766,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 760,
+    "description": "+ Kinh nghiệm 10%",
+    "name": "Đá kinh nghiệm 6",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 771,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 770,
+    "description": "+ Xuyên giáp 1%",
+    "name": "Đá xuyên giáp 1",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 772,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 770,
+    "description": "+ Xuyên giáp 2%",
+    "name": "Đá xuyên giáp 2",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 773,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 770,
+    "description": "+ Xuyên giáp 3%",
+    "name": "Đá xuyên giáp 3",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 774,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 770,
+    "description": "+ Xuyên giáp 4%",
+    "name": "Đá xuyên giáp 4",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 775,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 770,
+    "description": "+ Xuyên giáp 5%",
+    "name": "Đá xuyên giáp 5",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 776,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 770,
+    "description": "+ Xuyên giáp 6%",
+    "name": "Đá xuyên giáp 6",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 781,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 780,
+    "description": "+ Chính xác 1%",
+    "name": "Đá chính xác 1",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 782,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 780,
+    "description": "+ Chính xác 2%",
+    "name": "Đá chính xác 2",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 783,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 780,
+    "description": "+ Chính xác 3%",
+    "name": "Đá chính xác 3",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 784,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 780,
+    "description": "+ Chính xác 4%",
+    "name": "Đá chính xác 4",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 785,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 780,
+    "description": "+ Chính xác 5%",
+    "name": "Đá chính xác 5",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 786,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 780,
+    "description": "+ Chính xác 6%",
+    "name": "Đá chính xác 6",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 791,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 790,
+    "description": "+ Né đòn 1%",
+    "name": "Đá né đòn 1",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 792,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 790,
+    "description": "+ Né đòn 2%",
+    "name": "Đá né đòn 2",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 793,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 790,
+    "description": "+ Né đòn 3%",
+    "name": "Đá né đòn 3",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 794,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 790,
+    "description": "+ Né đòn 4%",
+    "name": "Đá né đòn 4",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 795,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 790,
+    "description": "+ Né đòn 5%",
+    "name": "Đá né đòn 5",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 796,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 790,
+    "description": "+ Né đòn 6%",
+    "name": "Đá né đòn 6",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 801,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 800,
+    "description": "+ Phản sát thương 1%",
+    "name": "Đá phản sát thương 1",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 802,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 800,
+    "description": "+ Phản sát thương 2%",
+    "name": "Đá phản sát thương 2",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 803,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 800,
+    "description": "+ Phản sát thương 3%",
+    "name": "Đá phản sát thương 3",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 804,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 800,
+    "description": "+ Phản sát thương 4%",
+    "name": "Đá phản sát thương 4",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 805,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 800,
+    "description": "+ Phản sát thương 5%",
+    "name": "Đá phản sát thương 5",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 806,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 800,
+    "description": "+ Phản sát thương 6%",
+    "name": "Đá phản sát thương 6",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 811,
+    "quality": 1,
+    "infoId": 0,
+    "itemType": 810,
+    "description": "Ngẫu nhiên nhận được đá khảm 1",
+    "name": "Hộp quà đá khảm 1",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 812,
+    "quality": 1,
+    "infoId": 0,
+    "itemType": 810,
+    "description": "Ngẫu nhiên nhận được đá khảm 2",
+    "name": "Hộp quà đá khảm 2",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 813,
+    "quality": 1,
+    "infoId": 0,
+    "itemType": 810,
+    "description": "Ngẫu nhiên nhận được đá khảm 3",
+    "name": "Hộp quà đá khảm 3",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 814,
+    "quality": 2,
+    "infoId": 0,
+    "itemType": 810,
+    "description": "Ngẫu nhiên nhận được đá khảm 4",
+    "name": "Hộp quà đá khảm 4",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 815,
+    "quality": 2,
+    "infoId": 0,
+    "itemType": 810,
+    "description": "Ngẫu nhiên nhận được đá khảm 5",
+    "name": "Hộp quà đá khảm 5",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 816,
+    "quality": 3,
+    "infoId": 0,
+    "itemType": 810,
+    "description": "Ngẫu nhiên nhận được đá khảm 6",
+    "name": "Hộp quà đá khảm 6",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 817,
+    "quality": 1,
+    "infoId": 0,
+    "itemType": 810,
+    "description": "Ngẫu nhiên nhận được đá khảm 1-3",
+    "name": "Hộp quà đá khảm sơ cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 818,
+    "quality": 2,
+    "infoId": 0,
+    "itemType": 810,
+    "description": "Ngẫu nhiên nhận được đá khảm 2-5",
+    "name": "Hộp quà đá khảm trung cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 819,
+    "quality": 3,
+    "infoId": 0,
+    "itemType": 810,
+    "description": "Ngẫu nhiên nhận được đá khảm 3-6",
+    "name": "Hộp quà đá khảm cao cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 901,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 901,
+    "description": "",
+    "name": "equip 1x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 902,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 902,
+    "description": "",
+    "name": "equip 2x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 903,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 903,
+    "description": "",
+    "name": "equip 3x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 904,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 904,
+    "description": "",
+    "name": "equip 4x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 905,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 905,
+    "description": "",
+    "name": "equip 5x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 906,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 906,
+    "description": "",
+    "name": "equip 6x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 907,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 907,
+    "description": "",
+    "name": "equip 7x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 908,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 908,
+    "description": "",
+    "name": "equip 8x ngẫu nhiên",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 921,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 920,
+    "description": "",
+    "name": "Ngà Voi",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 922,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 920,
+    "description": "",
+    "name": "Cựa Gà",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 923,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 920,
+    "description": "",
+    "name": "Hồng Mao",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 924,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 920,
+    "description": "",
+    "name": "Sách Dung Hợp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 931,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 930,
+    "description": "Tăng 100 sinh lực tối đa",
+    "name": "Đá bổ máu sơ cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 932,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 930,
+    "description": "Tăng 200 sinh lực tối đa",
+    "name": "Đá bổ máu trung cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 933,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 930,
+    "description": "Tăng 300 sinh lực tối đa",
+    "name": "Đá bổ máu cao cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 934,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 930,
+    "description": "Tăng 400 sinh lực tối đa",
+    "name": "Đá bổ máu hoàn mỹ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 935,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 930,
+    "description": "Tăng 500 sinh lực tối đa",
+    "name": "Đá bổ máu trắc việt",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 941,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 940,
+    "description": "Tăng 100 Sát thương",
+    "name": "Đá tăng lực sơ cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 942,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 940,
+    "description": "Tăng 200 Sát thương",
+    "name": "Đá tăng lực trung cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 943,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 940,
+    "description": "Tăng 300 Sát thương",
+    "name": "Đá tăng lực cao cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 944,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 940,
+    "description": "Tăng 400 Sát thương",
+    "name": "Đá tăng lực hoàn mỹ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 945,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 940,
+    "description": "Tăng 500 Sát thương",
+    "name": "Đá tăng lực trắc việt",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 951,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 950,
+    "description": "Tăng 100 năng lượng tối đa",
+    "name": "Đá trí tuệ sơ cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 952,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 950,
+    "description": "Tăng 200 năng lượng tối đa",
+    "name": "Đá trí tuệ trung cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 953,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 950,
+    "description": "Tăng 300 năng lượng tối đa",
+    "name": "Đá trí tuệ cao cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 954,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 950,
+    "description": "Tăng 400 năng lượng tối đa",
+    "name": "Đá trí tuệ hoàn mỹ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 955,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 950,
+    "description": "Tăng 500 năng lượng tối đa",
+    "name": "Đá trí tuệ trắc việt",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 961,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 960,
+    "description": "Tăng 20 tốc độ di chuyển",
+    "name": "Đá nhanh nhẹn sơ cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 962,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 960,
+    "description": "Tăng 40 tốc độ di chuyển",
+    "name": "Đá nhanh nhẹn trung cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 963,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 960,
+    "description": "Tăng 60 tốc độ di chuyển",
+    "name": "Đá nhanh nhẹn cao cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 964,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 960,
+    "description": "Tăng 80 tốc độ di chuyển",
+    "name": "Đá nhanh nhẹn hoàn mỹ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 965,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 960,
+    "description": "Tăng 100 tốc độ di chuyển",
+    "name": "Đá nhanh nhẹn trắc việt",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 971,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 970,
+    "description": "Tăng 2% tỉ lệ né tránh",
+    "name": "Đá dẻo dai sơ cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 972,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 970,
+    "description": "Tăng 4% tỉ lệ né tránh",
+    "name": "Đá dẻo dai trung cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 973,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 970,
+    "description": "Tăng 6% tỉ lệ né tránh",
+    "name": "Đá dẻo dai cao cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 974,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 970,
+    "description": "Tăng 8% tỉ lệ né tránh",
+    "name": "Đá dẻo dai hoàn mỹ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 975,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 970,
+    "description": "Tăng 10% tỉ lệ né tránh",
+    "name": "Đá dẻo dai trắc việt",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 981,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 980,
+    "description": "Tăng 2% tỉ lệ chí mạng",
+    "name": "Đá xuyên phá sơ cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 982,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 980,
+    "description": "Tăng 4% tỉ lệ chí mạng",
+    "name": "Đá xuyên phá trung cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 983,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 980,
+    "description": "Tăng 6% tỉ lệ chí mạng",
+    "name": "Đá xuyên phá cao cấp",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 984,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 980,
+    "description": "Tăng 8% tỉ lệ chí mạng",
+    "name": "Đá xuyên phá hoàn mỹ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 985,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 980,
+    "description": "Tăng 10% tỉ lệ chí mạng",
+    "name": "Đá xuyên phá trắc việt",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 991,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 990,
+    "description": "Học Bách gia tuyệt kỹ Huyền Quy Hộ Thể",
+    "name": "Ngọc Huyền Quy",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 992,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 990,
+    "description": "Học Bách gia tuyệt kỹ Sơn Tinh Ngự Phong",
+    "name": "Ngọc Sơn Tinh",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 993,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 990,
+    "description": "Học Bách gia tuyệt kỹ Non Sông Họa Thủy",
+    "name": "Ngọc Non Sông",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 994,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 990,
+    "description": "Học Bách gia tuyệt kỹ Thần Nông Phù Trợ",
+    "name": "Ngọc Thần Nông",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 995,
+    "quality": 0,
+    "infoId": 0,
+    "itemType": 990,
+    "description": "Học Bách gia tuyệt kỹ Thánh Gióng Tương Trợ",
+    "name": "Ngọc Thánh Gióng",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 1001,
+    "itemType": 1000,
+    "sectType": 1,
+    "description": " Tấn công: +25(20-25)",
+    "name": "Dao găm gỗ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 1002,
+    "itemType": 1000,
+    "sectType": 2,
+    "description": " Tấn công: +25(20-25)",
+    "name": "Sách cũ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 1003,
+    "itemType": 1000,
+    "sectType": 3,
+    "description": " Tấn công: +25(20-25)",
+    "name": "Kiếm gỗ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 1004,
+    "itemType": 1000,
+    "sectType": 4,
+    "description": " Tấn công: +25(20-25)",
+    "name": "Găng tay vải",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 1005,
+    "itemType": 1000,
+    "sectType": 5,
+    "description": " Tấn công: +25(20-25)",
+    "name": "Cung gỗ",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 1006,
+    "itemType": 1000,
+    "sectType": 1,
+    "description": " Tấn công: +75(50-75)",
+    "name": "Dao găm sắt",
+    "canTrade": 0,
+    "levelRequire": 20
+  },
+  {
+    "id": 1007,
+    "itemType": 1000,
+    "sectType": 2,
+    "description": "Tấn công: +75(50-75)",
+    "name": "Sách phép",
+    "canTrade": 0,
+    "levelRequire": 20
+  },
+  {
+    "id": 1008,
+    "itemType": 1000,
+    "sectType": 3,
+    "description": " Tấn công: +75(50-75)",
+    "name": "Kiếm sắt",
+    "canTrade": 0,
+    "levelRequire": 20
+  },
+  {
+    "id": 1009,
+    "itemType": 1000,
+    "sectType": 4,
+    "description": "Tấn công: +75(50-75)",
+    "name": "Găng tay sắt",
+    "canTrade": 0,
+    "levelRequire": 20
+  },
+  {
+    "id": 1010,
+    "itemType": 1000,
+    "sectType": 5,
+    "description": " Tấn công: +75(50-75)",
+    "name": "Cung sắt",
+    "canTrade": 0,
+    "levelRequire": 20
+  },
+  {
+    "id": 1011,
+    "itemType": 1000,
+    "sectType": 1,
+    "description": " Tấn công: +180(120-180)",
+    "name": "Dao găm tinh xảo",
+    "canTrade": 0,
+    "levelRequire": 40
+  },
+  {
+    "id": 1012,
+    "itemType": 1000,
+    "sectType": 2,
+    "description": " Tấn công: +180(120-180)",
+    "name": "Sách tinh xảo",
+    "canTrade": 0,
+    "levelRequire": 40
+  },
+  {
+    "id": 1013,
+    "itemType": 1000,
+    "sectType": 3,
+    "description": " Tấn công: +180(120-180)",
+    "name": "Kiếm tinh xảo",
+    "canTrade": 0,
+    "levelRequire": 40
+  },
+  {
+    "id": 1014,
+    "itemType": 1000,
+    "sectType": 4,
+    "description": " Tấn công: +180(120-180)",
+    "name": "Găng tay tinh xảo",
+    "canTrade": 0,
+    "levelRequire": 40
+  },
+  {
+    "id": 1015,
+    "itemType": 1000,
+    "sectType": 5,
+    "description": " Tấn công: +180(120-180)",
+    "name": "Cung tinh xảo",
+    "canTrade": 0,
+    "levelRequire": 40
+  },
+  {
+    "id": 1016,
+    "itemType": 1000,
+    "sectType": 1,
+    "description": " Tấn công: +300(200-300)",
+    "name": "Dao găm trắc việt",
+    "canTrade": 0,
+    "levelRequire": 50
+  },
+  {
+    "id": 1017,
+    "itemType": 1000,
+    "sectType": 2,
+    "description": " Tấn công: +300(200-300)",
+    "name": "Sách trắc việt",
+    "canTrade": 0,
+    "levelRequire": 50
+  },
+  {
+    "id": 1018,
+    "itemType": 1000,
+    "sectType": 3,
+    "description": " Tấn công: +300(200-300)",
+    "name": "Kiếm trắc việt",
+    "canTrade": 0,
+    "levelRequire": 50
+  },
+  {
+    "id": 1019,
+    "itemType": 1000,
+    "sectType": 4,
+    "description": " Tấn công: +300(200-300)",
+    "name": "Găng tay trắc việt",
+    "canTrade": 0,
+    "levelRequire": 50
+  },
+  {
+    "id": 1020,
+    "itemType": 1000,
+    "sectType": 5,
+    "description": " Tấn công: +300(200-300)",
+    "name": "Cung trắc việt",
+    "canTrade": 0,
+    "levelRequire": 50
+  },
+  {
+    "id": 1021,
+    "itemType": 1000,
+    "sectType": 1,
+    "description": " Tấn công: +150(100-150)",
+    "name": "Dao găm hoàn mỹ",
+    "canTrade": 0,
+    "levelRequire": 20
+  },
+  {
+    "id": 1022,
+    "itemType": 1000,
+    "sectType": 2,
+    "description": " Tấn công: +150(100-150)",
+    "name": "Sách hoàn mỹ",
+    "canTrade": 0,
+    "levelRequire": 20
+  },
+  {
+    "id": 1023,
+    "itemType": 1000,
+    "sectType": 3,
+    "description": " Tấn công: +150(100-150)",
+    "name": "Kiếm hoàn mỹ",
+    "canTrade": 0,
+    "levelRequire": 20
+  },
+  {
+    "id": 1024,
+    "itemType": 1000,
+    "sectType": 4,
+    "description": " Tấn công: +150(100-150)",
+    "name": "Găng tay hoàn mỹ",
+    "canTrade": 0,
+    "levelRequire": 20
+  },
+  {
+    "id": 1025,
+    "itemType": 1000,
+    "sectType": 5,
+    "description": " Tấn công: +150(100-150)",
+    "name": "Cung hoàn mỹ",
+    "canTrade": 0,
+    "levelRequire": 20
+  },
+  {
+    "id": 1026,
+    "itemType": 1000,
+    "sectType": 1,
+    "description": " Tấn công: +450(300-450)",
+    "name": "Dao găm tre vàng",
+    "canTrade": 0,
+    "levelRequire": 50
+  },
+  {
+    "id": 1027,
+    "itemType": 1000,
+    "sectType": 2,
+    "description": " Tấn công: +450(300-450)",
+    "name": "Sách tre vàng",
+    "canTrade": 0,
+    "levelRequire": 50
+  },
+  {
+    "id": 1028,
+    "itemType": 1000,
+    "sectType": 3,
+    "description": " Tấn công: +450(300-450)",
+    "name": "Kiếm tre vàng",
+    "canTrade": 0,
+    "levelRequire": 50
+  },
+  {
+    "id": 1029,
+    "itemType": 1000,
+    "sectType": 4,
+    "description": " Tấn công: +450(300-450)",
+    "name": "Găng tay tre vàng",
+    "canTrade": 0,
+    "levelRequire": 50
+  },
+  {
+    "id": 1030,
+    "itemType": 1000,
+    "sectType": 5,
+    "description": " Tấn công: +450(300-450)",
+    "name": "Cung tre vàng",
+    "canTrade": 0,
+    "levelRequire": 50
+  },
+  {
+    "id": 2001,
+    "itemType": 2000,
+    "description": " sinh lực tối đa: +40(30-40) \n năng lượng tối đa: +200(150-200)",
+    "name": "Mũ vải",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 2002,
+    "itemType": 2000,
+    "description": " sinh lực tối đa: +200(150-200) \n năng lượng tối đa: +800(600-800) \n",
+    "name": "Mũ sắt",
+    "canTrade": 0,
+    "levelRequire": 21
+  },
+  {
+    "id": 2003,
+    "itemType": 2000,
+    "description": " sinh lực tối đa: +800(600-800) \n năng lượng tối đa: +1200(900-1200)",
+    "name": "Mũ trung hưng",
+    "canTrade": 0,
+    "levelRequire": 41
+  },
+  {
+    "id": 2004,
+    "itemType": 2000,
+    "description": " sinh lực tối đa: +1200(900-1200) \n năng lượng tối đa: +1600(1200-1600)",
+    "name": "Mũ Tây Sơn",
+    "canTrade": 0,
+    "levelRequire": 51
+  },
+  {
+    "id": 2005,
+    "itemType": 2000,
+    "description": " sinh lực tối đa: +600(450-600) \n năng lượng tối đa: +1200(900-1200)",
+    "name": "Mũ Âu Lạc",
+    "canTrade": 0,
+    "levelRequire": 21
+  },
+  {
+    "id": 2006,
+    "itemType": 2000,
+    "description": " sinh lực tối đa: +1800(1350-1800) \n năng lượng tối đa: +2000(1500-2000)",
+    "name": "Mũ Thánh Gióng",
+    "canTrade": 0,
+    "levelRequire": 51
+  },
+  {
+    "id": 3001,
+    "itemType": 3000,
+    "description": " sinh lực tối đa: +40(30-40) \n năng lượng tối đa: +40(30-40) \n Chí mạng: 50(40-50)",
+    "name": "Quần vải",
+    "canTrade": 0,
+    "levelRequire": 4
+  },
+  {
+    "id": 3002,
+    "itemType": 3000,
+    "description": " sinh lực tối đa: +400(300-400) \n năng lượng tối đa: +400(300-400) \n Chí mạng: 100(80-100)",
+    "name": "Quần sắt",
+    "canTrade": 0,
+    "levelRequire": 24
+  },
+  {
+    "id": 3003,
+    "itemType": 3000,
+    "description": " sinh lực tối đa: +800(600-800) \n năng lượng tối đa: +800(600-800) \n Chí mạng: 200(160-200)",
+    "name": "Quần trung hưng",
+    "canTrade": 0,
+    "levelRequire": 44
+  },
+  {
+    "id": 3004,
+    "itemType": 3000,
+    "description": " sinh lực tối đa: +1200(900-1200) \n năng lượng tối đa: +1200(900-1200) \n Chí mạng: 300(240-300)",
+    "name": "Quần Tây Sơn",
+    "canTrade": 0,
+    "levelRequire": 54
+  },
+  {
+    "id": 3005,
+    "itemType": 3000,
+    "description": " sinh lực tối đa: +600(450-600) \n năng lượng tối đa: +600(450-600) \n Chí mạng: 150(120-150)",
+    "name": "Quần Âu Lạc",
+    "canTrade": 0,
+    "levelRequire": 24
+  },
+  {
+    "id": 3006,
+    "itemType": 3000,
+    "description": " sinh lực tối đa: +1800(1350-1800) \n năng lượng tối đa: +1800(1350-1800) \n Chí mạng: 450(360-450)",
+    "name": "Quần Thánh Gióng",
+    "canTrade": 0,
+    "levelRequire": 54
+  },
+  {
+    "id": 4001,
+    "itemType": 4000,
+    "description": " sinh lực tối đa: +40(30-40) \n năng lượng tối đa: +40(30-40) \n Giảm sát thương: +50(40-50)",
+    "name": "Áo vải",
+    "canTrade": 0,
+    "levelRequire": 2
+  },
+  {
+    "id": 4002,
+    "itemType": 4000,
+    "description": " sinh lực tối đa: +400(300-400) \n năng lượng tối đa: +400(300-400) \n Giảm sát thương: +100(50-100)",
+    "name": "Áo sắt",
+    "canTrade": 0,
+    "levelRequire": 22
+  },
+  {
+    "id": 4003,
+    "itemType": 4000,
+    "description": " sinh lực tối đa: +800(600-800) \n năng lượng tối đa: +800(600-800) \n Giảm sát thương: +200(160-200)",
+    "name": "Áo trung hưng",
+    "canTrade": 0,
+    "levelRequire": 42
+  },
+  {
+    "id": 4004,
+    "itemType": 4000,
+    "description": " sinh lực tối đa: +1200(900-1200) \n năng lượng tối đa: +1200(900-1200) \n Giảm sát thương: +300(240-300)",
+    "name": "Áo Tây Sơn",
+    "canTrade": 0,
+    "levelRequire": 52
+  },
+  {
+    "id": 4005,
+    "itemType": 4000,
+    "description": " sinh lực tối đa: +600(450-600) \n năng lượng tối đa: +600(450-600) \n Giảm sát thương: +150(120-150)",
+    "name": "Áo Âu Lạc",
+    "canTrade": 0,
+    "levelRequire": 22
+  },
+  {
+    "id": 4006,
+    "itemType": 4000,
+    "description": " sinh lực tối đa: +1800(1350-1800) \n năng lượng tối đa: +2600(1700-2600) \n Giảm sát thương: +350(300-350)",
+    "name": "Áo Thánh Gióng",
+    "canTrade": 0,
+    "levelRequire": 52
+  },
+  {
+    "id": 5001,
+    "itemType": 5000,
+    "description": " sinh lực tối đa: +40(30-40) \n năng lượng tối đa: +40(30-40) \n Né tránh: +50(40-50)",
+    "name": "Giày vải",
+    "canTrade": 0,
+    "levelRequire": 5
+  },
+  {
+    "id": 5002,
+    "itemType": 5000,
+    "description": " sinh lực tối đa: +400(300-400) \n năng lượng tối đa: +400(300-400) \n Né tránh: +100(80-100)",
+    "name": "Giày sắt",
+    "canTrade": 0,
+    "levelRequire": 25
+  },
+  {
+    "id": 5003,
+    "itemType": 5000,
+    "description": " sinh lực tối đa: +800(600-800) \n năng lượng tối đa: +800(600-800) \n Né tránh: +200(160-200)",
+    "name": "Giày trung hưng",
+    "canTrade": 0,
+    "levelRequire": 45
+  },
+  {
+    "id": 5004,
+    "itemType": 5000,
+    "description": " sinh lực tối đa: +1200(900-1200) \n năng lượng tối đa: +1200(900-1200) \n Né tránh: +300(240-200)",
+    "name": "Giày Tây sơn",
+    "canTrade": 0,
+    "levelRequire": 55
+  },
+  {
+    "id": 5005,
+    "itemType": 5000,
+    "description": " sinh lực tối đa: +600(450-600) \n năng lượng tối đa: +600(450-600) \n Né tránh: +150(120-150)",
+    "name": "Giày Âu Lạc",
+    "canTrade": 0,
+    "levelRequire": 25
+  },
+  {
+    "id": 5006,
+    "itemType": 5000,
+    "description": " sinh lực tối đa: +1800(1350-1800) \n năng lượng tối đa: +1800(1350-1800) \n Né tránh: +450(360-450)",
+    "name": "Giày Thánh Gióng",
+    "canTrade": 0,
+    "levelRequire": 55
+  },
+  {
+    "id": 6001,
+    "itemType": 6000,
+    "description": " sinh lực tối đa: +40(30-40) \n năng lượng tối đa: +40(30-40) \n Chính xác: +50(40-50)",
+    "name": "Nhẫn đồng",
+    "canTrade": 0,
+    "levelRequire": 6
+  },
+  {
+    "id": 6002,
+    "itemType": 6000,
+    "description": " sinh lực tối đa: +400(300-400) \n năng lượng tối đa: +400(300-400) \n Chính xác: +100(80-100)",
+    "name": "Nhẵn bạc",
+    "canTrade": 0,
+    "levelRequire": 26
+  },
+  {
+    "id": 6003,
+    "itemType": 6000,
+    "description": " sinh lực tối đa: +800(600-800) \n năng lượng tối đa: +800(600-800) \n Chính xác: +200(160-200)",
+    "name": "Nhẫn trung hưng",
+    "canTrade": 0,
+    "levelRequire": 46
+  },
+  {
+    "id": 6004,
+    "itemType": 6000,
+    "description": " sinh lực tối đa: +1200(900-1200) \n năng lượng tối đa: +1200(900-1200) \n Chính xác: +300(240-300)",
+    "name": "Nhẫn Tây sơn",
+    "canTrade": 0,
+    "levelRequire": 56
+  },
+  {
+    "id": 6005,
+    "itemType": 6000,
+    "description": " sinh lực tối đa: +600(450-600) \n năng lượng tối đa: +600(450-600) \n Chính xác: +150(120-150)",
+    "name": "Nhẫn Âu Lạc",
+    "canTrade": 0,
+    "levelRequire": 26
+  },
+  {
+    "id": 6006,
+    "itemType": 6000,
+    "description": " sinh lực tối đa: +1800(1350-1800) \n năng lượng tối đa: +1800(1350-1800) \n Chính xác: +450(360-450)",
+    "name": "Nhẫn Thánh Gióng",
+    "canTrade": 0,
+    "levelRequire": 56
+  },
+  {
+    "id": 7001,
+    "itemType": 7000,
+    "description": " sinh lực tối đa: +40(30-40) \n năng lượng tối đa: +40(30-40) \n Sát thương chí mạng: +50(40-50)",
+    "name": "Đai lưng vải",
+    "canTrade": 0,
+    "levelRequire": 8
+  },
+  {
+    "id": 7002,
+    "itemType": 7000,
+    "description": " sinh lực tối đa: +400(300-400) \n năng lượng tối đa: +400(300-400) \n Sát thương chí mạng: +100(80-100)",
+    "name": "Đai lưng sắt",
+    "canTrade": 0,
+    "levelRequire": 28
+  },
+  {
+    "id": 7003,
+    "itemType": 7000,
+    "description": " sinh lực tối đa: +800(600-800) \n năng lượng tối đa: +800(600-800) \n Sát thương chí mạng: +200(160-200)",
+    "name": "Đai lưng trung hưng",
+    "canTrade": 0,
+    "levelRequire": 48
+  },
+  {
+    "id": 7004,
+    "itemType": 7000,
+    "description": " sinh lực tối đa: +1200(900-1200) \n năng lượng tối đa: +1200(900-1200) \n Sát thương chí mạng: +300(240-300)",
+    "name": "Đai lưng Tây sơn",
+    "canTrade": 0,
+    "levelRequire": 58
+  },
+  {
+    "id": 7005,
+    "itemType": 7000,
+    "description": " sinh lực tối đa: +600(450-600) \n năng lượng tối đa: +600(450-600) \n Sát thương chí mạng: +150(120-150)",
+    "name": "Đai lưng Âu Lạc",
+    "canTrade": 0,
+    "levelRequire": 28
+  },
+  {
+    "id": 7006,
+    "itemType": 7000,
+    "description": " sinh lực tối đa: +1800(1350-1800) \n năng lượng tối đa: +1800(1350-1800) \n Sát thương chí mạng: +450(360-450)",
+    "name": "Đai lưng Thánh Gióng",
+    "canTrade": 0,
+    "levelRequire": 58
+  },
+  {
+    "id": 8001,
+    "itemType": 8000,
+    "description": " sinh lực tối đa: +200(150-200) \n năng lượng tối đa: +40(30-40)",
+    "name": "Dây chuyền đồng",
+    "canTrade": 0,
+    "levelRequire": 9
+  },
+  {
+    "id": 8002,
+    "itemType": 8000,
+    "description": " sinh lực tối đa: +800(600-800) \n năng lượng tối đa: +200(150-200)",
+    "name": "Dây chuyền bạc",
+    "canTrade": 0,
+    "levelRequire": 29
+  },
+  {
+    "id": 8003,
+    "itemType": 8000,
+    "description": " sinh lực tối đa: +1200(800-1200) \n năng lượng tối đa: +400(300-400)",
+    "name": "Dây chuyền trung hưng",
+    "canTrade": 0,
+    "levelRequire": 49
+  },
+  {
+    "id": 8004,
+    "itemType": 8000,
+    "description": " sinh lực tối đa: +1800(1200-1800) \n năng lượng tối đa: +600(450-600)",
+    "name": "Dây chuyền Tây sơn",
+    "canTrade": 0,
+    "levelRequire": 59
+  },
+  {
+    "id": 8005,
+    "itemType": 8000,
+    "description": " sinh lực tối đa: +1200(900-1200) \n năng lượng tối đa: +300(225-300)",
+    "name": "Dây chuyền Âu Lạc",
+    "canTrade": 0,
+    "levelRequire": 9
+  },
+  {
+    "id": 8006,
+    "itemType": 8000,
+    "description": " sinh lực tối đa: +2250(1500-2250) \n năng lượng tối đa: +800(600-800)",
+    "name": "Dây chuyền Thánh Gióng",
+    "canTrade": 0,
+    "levelRequire": 59
+  },
+
+  {
+    "id": 9001,
+    "itemType": 9000,
+    "name": "Quan ấn Chu Tước",
+    "quality": 4,
+    "description": " Sát thương +(11%-35%) \n Thời hạn: 7 ngày (Có thể gia hạn)",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 9002,
+    "name": "Quan ấn Thanh Long",
+    "itemType": 9000,
+    "quality": 4,
+    "description": " Giáp +(11%-35%) \n Thời hạn: 7 ngày (Có thể gia hạn)",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 9003,
+    "name": "Quan ấn Bạch Hổ",
+    "itemType": 9000,
+    "quality": 4,
+    "description": " Máu +(11%-35%) \n Thời hạn: 7 ngày (Có thể gia hạn)",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 9004,
+    "name": "Quan ấn Huyền Vũ",
+    "itemType": 9000,
+    "quality": 4,
+    "description": " Năng lượng +(11%-35%) \n Thời hạn: 7 ngày (Có thể gia hạn)",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 9005,
+    "name": "Quan ấn Kì Lân",
+    "itemType": 9000,
+    "quality": 5,
+    "description": " Máu +(15%-50%) \n Năng lượng +(15%-50%) \n Sát thương +(15%-50%) \n Giáp +(15%-50%) \n Thời hạn: 7 ngày (Có thể gia hạn)",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 10101,
+    "name": "Trang Phục Thiên Môn Đạo - Hệ Thổ",
+    "itemType": 10000,
+    "sectType": 1,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 1,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10102,
+    "name": "Trang Phục Nho Gia - Hệ Thổ",
+    "itemType": 10000,
+    "sectType": 2,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 1,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10103,
+    "name": "Trang Phục Tây Sơn Nhạn - Hệ Thổ",
+    "itemType": 10000,
+    "sectType": 3,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 1,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10104,
+    "name": "Trang Phục Phật Tông - Hệ Thổ",
+    "itemType": 10000,
+    "sectType": 4,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 1,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10105,
+    "name": "Trang Phục Thất Sơn - Hệ Thổ",
+    "itemType": 10000,
+    "sectType": 5,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 1,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10106,
+    "name": "Trang Phục Âu Lạc - Hệ Thổ",
+    "itemType": 10000,
+    "sectType": 0,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 1,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10107,
+    "name": "Trang Phục Thánh Gióng - Hệ Thổ",
+    "itemType": 10000,
+    "sectType": 0,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 1,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10108,
+    "name": "Trang Phục Mùa Xuân - Hệ Thổ",
+    "itemType": 10000,
+    "sectType": 0,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 1,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10201,
+    "name": "Trang Phục Thiên Môn Đạo - Hệ Thủy",
+    "itemType": 10000,
+    "sectType": 1,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 2,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10202,
+    "name": "Trang Phục Nho Gia - Hệ Thủy",
+    "itemType": 10000,
+    "sectType": 2,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 2,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10203,
+    "name": "Trang Phục Tây Sơn Nhạn - Hệ Thủy",
+    "itemType": 10000,
+    "sectType": 3,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 2,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10204,
+    "name": "Trang Phục Phật Tông - Hệ Thủy",
+    "itemType": 10000,
+    "sectType": 4,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 2,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10205,
+    "name": "Trang Phục Thất Sơn - Hệ Thủy",
+    "itemType": 10000,
+    "sectType": 5,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 2,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10206,
+    "name": "Trang Phục Âu Lạc - Hệ Thủy",
+    "itemType": 10000,
+    "sectType": 0,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 2,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10207,
+    "name": "Trang Phục Thánh Gióng - Hệ Thủy",
+    "itemType": 10000,
+    "sectType": 0,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 2,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10208,
+    "name": "Trang Phục Mùa Xuân - Hệ Thủy",
+    "itemType": 10000,
+    "sectType": 0,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 2,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10301,
+    "name": "Trang Phục Thiên Môn Đạo - Hệ Hỏa",
+    "itemType": 10000,
+    "sectType": 1,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 3,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10302,
+    "name": "Trang Phục Nho Gia - Hệ Hỏa",
+    "itemType": 10000,
+    "sectType": 2,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 3,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10303,
+    "name": "Trang Phục Tây Sơn Nhạn - Hệ Hỏa",
+    "itemType": 10000,
+    "sectType": 3,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 3,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10304,
+    "name": "Trang Phục Phật Tông - Hệ Hỏa",
+    "itemType": 10000,
+    "sectType": 4,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 3,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10305,
+    "name": "Trang Phục Thất Sơn - Hệ Hỏa",
+    "itemType": 10000,
+    "sectType": 5,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 3,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10306,
+    "name": "Trang Phục Âu Lạc - Hệ Hỏa",
+    "itemType": 10000,
+    "sectType": 0,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 3,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10307,
+    "name": "Trang Phục Thánh Gióng - Hệ Hỏa",
+    "itemType": 10000,
+    "sectType": 0,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 3,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10308,
+    "name": "Trang Phục Mùa Xuân - Hệ Hỏa",
+    "itemType": 10000,
+    "sectType": 0,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 3,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10401,
+    "name": "Trang Phục Thiên Môn Đạo - Hệ Phong",
+    "itemType": 10000,
+    "sectType": 1,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 4,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10402,
+    "name": "Trang Phục Nho Gia - Hệ Phong",
+    "itemType": 10000,
+    "sectType": 2,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 4,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10403,
+    "name": "Trang Phục Tây Sơn Nhạn - Hệ Phong",
+    "itemType": 10000,
+    "sectType": 3,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 4,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10404,
+    "name": "Trang Phục Phật Tông - Hệ Phong",
+    "itemType": 10000,
+    "sectType": 4,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 4,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10405,
+    "name": "Trang Phục Thất Sơn - Hệ Phong",
+    "itemType": 10000,
+    "sectType": 5,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 4,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10406,
+    "name": "Trang Phục Âu Lạc - Hệ Phong",
+    "itemType": 10000,
+    "sectType": 0,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 4,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10407,
+    "name": "Trang Phục Thánh Gióng - Hệ Phong",
+    "itemType": 10000,
+    "sectType": 0,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 4,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 10408,
+    "name": "Trang Phục Mùa Xuân - Hệ Phong",
+    "itemType": 10000,
+    "sectType": 0,
+    "description": "Tăng 10% - 50% Exp khi đánh quái",
+    "characterType": 4,
+    "quality": 7,
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 11001,
+    "name": "Nhất vĩ",
+    "itemType": 11000,
+    "quality": 0,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 11002,
+    "name": "Nhị vĩ",
+    "itemType": 11000,
+    "quality": 0,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 11004,
+    "name": "Tứ vĩ",
+    "itemType": 11000,
+    "quality": 0,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 11009,
+    "name": "Cửu vĩ",
+    "itemType": 11000,
+    "quality": 0,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 12001,
+    "name": "Tiểu Ngư",
+    "quality": 0,
+    "itemType": 12000,
+    "description": " 10% Tốc độ di chuyển \n 5% Xuyên giáp \n 10% Thời gian hồi nhẫn thuật \n 10% - 40% exp \n Thời hạn: 7 ngày (Có thể gia hạn)",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 12002,
+    "name": "Đại ngư",
+    "quality": 0,
+    "itemType": 12000,
+    "description": " 10% Tốc độ di chuyển \n 5% Xuyên giáp \n 10% Thời gian hồi nhẫn thuật \n 10% - 15% Tấn công \n Thời hạn: 7 ngày (Có thể gia hạn)",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 12003,
+    "name": "Sách Phi Hành(Đỏ)",
+    "quality": 0,
+    "itemType": 12000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 12004,
+    "name": "Sách Phi Hành(Tím)",
+    "quality": 0,
+    "itemType": 12000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 12005,
+    "name": "Sách Phi Hành(Xanh Dương)",
+    "quality": 0,
+    "itemType": 12000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 12006,
+    "name": "Sách Phi Hành(Lục)",
+    "quality": 0,
+    "itemType": 12000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 12007,
+    "name": "Sách Phi Hành(Cam)",
+    "quality": 0,
+    "itemType": 12000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 12008,
+    "name": "Sách Phi Hành(Hồng)",
+    "quality": 0,
+    "itemType": 12000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 13001,
+    "name": "Kẻ diệt sơn tặc",
+    "itemType": 13000,
+    "description": "Minh chứng đã đánh đại vương núi Hoài Nhơn",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 13002,
+    "name": "Tiểu chiến thần",
+    "itemType": 13000,
+    "description": "Minh chứng đã đánh bại Chiêu Tăng - Chiêu Sương",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 13003,
+    "name": "Diệt phù thủy",
+    "itemType": 13000,
+    "description": "Minh chứng đã đánh bại Hứa Thế Hanh",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 13004,
+    "name": "Anh hùng áo vải",
+    "itemType": 13000,
+    "description": "Sưu tập đủ bộ 10x",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 13005,
+    "name": "Nghĩa sĩ An Nam",
+    "itemType": 13000,
+    "description": "Sưu tập đủ bộ 20x",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 13006,
+    "name": "Hào kiệt quả cảm",
+    "itemType": 13000,
+    "description": "Sưu tập đủ bộ 40x",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 13007,
+    "name": "Mãnh tướng Tây Sơn",
+    "itemType": 13000,
+    "description": "Sưu tập đủ bộ 50x",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 13008,
+    "name": "Chiến thần thủy chiến",
+    "itemType": 13000,
+    "description": "Danh hiệu cao quý của phó bản Rạch Gầm Xoài Mút",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 13009,
+    "name": "Con cháu Lạc Hồng",
+    "itemType": 13000,
+    "description": "Danh hiệu cao quý của phó bản Đầm lầy thiên mệnh",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 13010,
+    "name": "Con rể vua Hùng",
+    "itemType": 13000,
+    "description": "Danh hiệu cao quý của phó bản Sơn Tinh Thủy Tinh",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 13011,
+    "name": "Đại Bang Hội",
+    "itemType": 13000,
+    "description": "Danh hiệu cao quý của phó bản đại chiến bang hội",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 30101,
+    "name": "Naruto",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30103,
+    "name": "Naruto Akatsuki",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30105,
+    "name": "Naruto Cửu Vĩ Hình",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30201,
+    "name": "Sasuke",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30203,
+    "name": "Sasuke Akatsuki",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30205,
+    "name": "Sasuke Cửu Vĩ Hình",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30301,
+    "name": "Sakura",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30303,
+    "name": "Sakura Akatsuki",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30305,
+    "name": "Sakura Cửu Vĩ Hình",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30401,
+    "name": "Itachi",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30403,
+    "name": "Itachi Akatsuki",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30405,
+    "name": "Itachi Cửu Vĩ Hình",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30501,
+    "name": "Garra",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30503,
+    "name": "Garra Akatsuki",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30505,
+    "name": "Garra Cửu Vĩ Hình",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30601,
+    "name": "Tobirama",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 30602,
+    "name": "Madara",
+    "itemType": 30000,
+    "description": "",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 31001,
+    "itemType": 31000,
+    "description": " Tấn công: +25(20-25) \n Chí mạng: +200",
+    "name": "Shuriken",
+    "canTrade": 0,
+    "levelRequire": 1
+  },
+  {
+    "id": 31002,
+    "itemType": 31000,
+    "description": " Tấn công: +150(100-150) \n Chí mạng: +300",
+    "name": "Phong ma Shuriken",
+    "canTrade": 0,
+    "levelRequire": 20
+  },
+  {
+    "id": 31003,
+    "itemType": 31000,
+    "description": " Tấn công: +300(200-300) \n Chí mạng: +400",
+    "name": "Kunai",
+    "canTrade": 0,
+    "levelRequire": 30
+  },
+  {
+    "id": 31004,
+    "itemType": 31000,
+    "description": " Tấn công: +500(400-500) \n Chí mạng: +500",
+    "name": "Kunai Minato",
+    "canTrade": 0,
+    "levelRequire": 40
+  },
+  {
+    "id": 31005,
+    "itemType": 31000,
+    "description": " Tấn công: +600(500-600) \n Chí mạng: +600",
+    "name": "Shuriken Kunai",
+    "canTrade": 0,
+    "levelRequire": 50
+  },
+  {
+    "id": 31006,
+    "itemType": 31000,
+    "description": " Tấn công: +900(600-900) \n Chí mạng: +700",
+    "name": "Kiếm Kusanagi",
+    "canTrade": 0,
+    "levelRequire": 60
+  },
+  {
+    "id": 31007,
+    "itemType": 31000,
+    "description": "Tấn công: +1500(900-1500) \n Chí mạng: +800",
+    "name": "Thủ cấp đoạt đao",
+    "canTrade": 0,
+    "levelRequire": 70
+  },
+  {
+    "id": 31008,
+    "itemType": 31000,
+    "description": " Tấn công: +2000(1500-2000) \n Chí mạng: +900",
+    "name": "Cự kình đao",
+    "canTrade": 0,
+    "levelRequire": 80
+  },
+  {
+    "id": 32001,
+    "itemType": 32000,
+    "description": " sinh lực tối đa: +40(30-40) \n năng lượng tối đa: +40(30-40) \n Né đòn: +50(40-50)",
+    "name": "Nón tập sự",
+    "canTrade": 0,
+    "levelRequire": 3
+  },
+  {
+    "id": 32002,
+    "itemType": 32000,
+    "description": " sinh lực tối đa: +400(300-400) \n năng lượng tối đa: +400(300-400) \n Né đòn: +100(50-100)",
+    "name": "Nón hạ đẳng",
+    "canTrade": 0,
+    "levelRequire": 21
+  },
+  {
+    "id": 32003,
+    "itemType": 32000,
+    "description": " sinh lực tối đa: +750(600-750) \n năng lượng tối đa: +750(600-750) \n Né đòn: +200(150-200)",
+    "name": "Nón trung đẳng",
+    "canTrade": 0,
+    "levelRequire": 31
+  },
+  {
+    "id": 32004,
+    "itemType": 32000,
+    "description": " sinh lực tối đa: +1200(750-1200) \n năng lượng tối đa: +1200(750-1200) \n Né đòn: +250(200-250)",
+    "name": "Nón thượng đẳng",
+    "canTrade": 0,
+    "levelRequire": 41
+  },
+  {
+    "id": 32005,
+    "itemType": 32000,
+    "description": " sinh lực tối đa: +1700(1400-1700) \n năng lượng tối đa: +1700(1400-1700) \n Né đòn: +300(250-300)",
+    "name": "Nón giáo quan",
+    "canTrade": 0,
+    "levelRequire": 51
+  },
+  {
+    "id": 32006,
+    "itemType": 32000,
+    "description": " sinh lực tối đa: +2600(1700-2600) \n năng lượng tối đa: +2600(1700-2600) \n Né đòn: +350(300-350)",
+    "name": "Nón chỉ huy",
+    "canTrade": 0,
+    "levelRequire": 61
+  },
+  {
+    "id": 32007,
+    "itemType": 32000,
+    "description": " sinh lực tối đa: +3300(2300-3300) \n năng lượng tối đa: ++3300(2300-3300) \n Né đòn: +500(400-500)",
+    "name": "Nón ám bộ",
+    "canTrade": 0,
+    "levelRequire": 71
+  },
+  {
+    "id": 32008,
+    "itemType": 32000,
+    "description": " sinh lực tối đa: +4600(4000-4600) \n năng lượng tối đa: +4600(4000-4600) \n Né đòn: +600(500-600)",
+    "name": "Nón quỷ đồng hoàn",
+    "canTrade": 0,
+    "levelRequire": 81
+  },
+  {
+    "id": 33001,
+    "itemType": 33000,
+    "description": " sinh lực tối đa: +40(30-40) \n năng lượng tối đa: +40(30-40) \n Hồi sinh lực mỗi 5s: 10",
+    "name": "Quần tập sự",
+    "canTrade": 0,
+    "levelRequire": 8
+  },
+  {
+    "id": 33002,
+    "itemType": 33000,
+    "description": " sinh lực tối đa: +400(300-400) \n năng lượng tối đa: +400(300-400) \n Hồi sinh lực mỗi 5s: 20",
+    "name": "Quần hạ đẳng",
+    "canTrade": 0,
+    "levelRequire": 24
+  },
+  {
+    "id": 33003,
+    "itemType": 33000,
+    "description": " sinh lực tối đa: +750(600-750) \n năng lượng tối đa: +750(600-750) \n Hồi sinh lực mỗi 5s: 40",
+    "name": "Quần trung đẳng",
+    "canTrade": 0,
+    "levelRequire": 34
+  },
+  {
+    "id": 33004,
+    "itemType": 33000,
+    "description": " sinh lực tối đa: +1200(750-1200) \n năng lượng tối đa: +1200(750-1200) \n Hồi sinh lực mỗi 5s: 80",
+    "name": "Quần thượng đẳng",
+    "canTrade": 0,
+    "levelRequire": 44
+  },
+  {
+    "id": 33005,
+    "itemType": 33000,
+    "description": " sinh lực tối đa: +1700(1400-1700) \n năng lượng tối đa: +1700(1400-1700) \n Hồi sinh lực mỗi 5s: 120",
+    "name": "Quần giáo quan",
+    "canTrade": 0,
+    "levelRequire": 54
+  },
+  {
+    "id": 33006,
+    "itemType": 33000,
+    "description": " sinh lực tối đa: +2600(1700-2600) \n năng lượng tối đa: +2600(1700-2600) \n Hồi sinh lực mỗi 5s: 180",
+    "name": "Quần chỉ huy",
+    "canTrade": 0,
+    "levelRequire": 64
+  },
+  {
+    "id": 33007,
+    "itemType": 33000,
+    "description": " sinh lực tối đa: +3300(2300-3300) \n năng lượng tối đa: +3300(2300-3300) \n Hồi sinh lực mỗi 5s: 320",
+    "name": "Quần ám bộ",
+    "canTrade": 0,
+    "levelRequire": 74
+  },
+  {
+    "id": 33008,
+    "itemType": 33000,
+    "description": " sinh lực tối đa: +4600(4000-4600) \n năng lượng tối đa: +4600(4000-4600) \n Hồi sinh lực mỗi 5s: 1000",
+    "name": "Quần quỷ đồng hoàn",
+    "canTrade": 0,
+    "levelRequire": 84
+  },
+  {
+    "id": 34001,
+    "itemType": 34000,
+    "description": " sinh lực tối đa: +40(30-40) \n năng lượng tối đa: +40(30-40) \n Giảm sát thương: +50(40-50)",
+    "name": "Áo tập sự",
+    "canTrade": 0,
+    "levelRequire": 6
+  },
+  {
+    "id": 34002,
+    "itemType": 34000,
+    "description": " sinh lực tối đa: +400(300-400) \n năng lượng tối đa: +400(300-400) \n Giảm sát thương: +100(50-100)",
+    "name": "Áo hạ đẳng",
+    "canTrade": 0,
+    "levelRequire": 22
+  },
+  {
+    "id": 34003,
+    "itemType": 34000,
+    "description": " sinh lực tối đa: +750(600-750) \n năng lượng tối đa: +750(600-750) \n Giảm sát thương: +200(150-200)",
+    "name": "Áo trung đẳng",
+    "canTrade": 0,
+    "levelRequire": 32
+  },
+  {
+    "id": 34004,
+    "itemType": 34000,
+    "description": " sinh lực tối đa: +1200(750-1200) \n năng lượng tối đa: +1200(750-1200) \n Giảm sát thương: +250(200-250)",
+    "name": "Áo thượng đẳng",
+    "canTrade": 0,
+    "levelRequire": 42
+  },
+  {
+    "id": 34005,
+    "itemType": 34000,
+    "description": " sinh lực tối đa: +1700(1400-1700) \n năng lượng tối đa: +1700(1400-1700) \n Giảm sát thương: +300(250-300)",
+    "name": "Áo giáo quan",
+    "canTrade": 0,
+    "levelRequire": 52
+  },
+  {
+    "id": 4006,
+    "itemType": 4000,
+    "description": " sinh lực tối đa: +2600(1700-2600) \n năng lượng tối đa: +2600(1700-2600) \n Giảm sát thương: +350(300-350)",
+    "name": "Áo chỉ huy",
+    "canTrade": 0,
+    "levelRequire": 62
+  },
+  {
+    "id": 34007,
+    "itemType": 34000,
+    "description": " sinh lực tối đa: +3300(2300-3300) \n năng lượng tối đa: +3300(2300-3300) \n Giảm sát thương: +500(400-500)",
+    "name": "Áo ám bộ",
+    "canTrade": 0,
+    "levelRequire": 72
+  },
+  {
+    "id": 34008,
+    "itemType": 34000,
+    "description": " sinh lực tối đa: +4600(4000-4600) \n năng lượng tối đa: +4600(4000-4600) \n Giảm sát thương: +600(500-600)",
+    "name": "Áo quỷ đồng hoàn",
+    "canTrade": 0,
+    "levelRequire": 82
+  },
+  {
+    "id": 35001,
+    "itemType": 35000,
+    "description": " sinh lực tối đa: +40(30-40) \n năng lượng tối đa: +40(30-40) \n Hồi năng lượng mỗi 5 giây: +10",
+    "name": "Giày tập sự",
+    "canTrade": 0,
+    "levelRequire": 10
+  },
+  {
+    "id": 35002,
+    "itemType": 35000,
+    "description": " sinh lực tối đa: +400(300-400) \n năng lượng tối đa: +400(300-400) \n Hồi năng lượng mỗi 5 giây: +20",
+    "name": "Giày hạ đẳng",
+    "canTrade": 0,
+    "levelRequire": 25
+  },
+  {
+    "id": 35003,
+    "itemType": 35000,
+    "description": " sinh lực tối đa: +750(600-750) \n năng lượng tối đa: +750(600-750) \n Hồi năng lượng mỗi 5 giây: +40",
+    "name": "Giày trung đẳng",
+    "canTrade": 0,
+    "levelRequire": 35
+  },
+  {
+    "id": 35004,
+    "itemType": 35000,
+    "description": " sinh lực tối đa: +1200(750-1200) \n năng lượng tối đa: +1200(750-1200) \n Hồi năng lượng mỗi 5 giây: +80",
+    "name": "Giày thượng đẳng",
+    "canTrade": 0,
+    "levelRequire": 45
+  },
+  {
+    "id": 35005,
+    "itemType": 35000,
+    "description": " sinh lực tối đa: +1700(1400-1700) \n năng lượng tối đa: +1700(1400-1700) \n Hồi năng lượng mỗi 5 giây: +120",
+    "name": "Giày giáo quan",
+    "canTrade": 0,
+    "levelRequire": 55
+  },
+  {
+    "id": 35006,
+    "itemType": 35000,
+    "description": " sinh lực tối đa: +2600(1700-2600) \n năng lượng tối đa: +2600(1700-2600) \n Hồi năng lượng mỗi 5 giây: +180",
+    "name": "Giày chỉ huy",
+    "canTrade": 0,
+    "levelRequire": 65
+  },
+  {
+    "id": 35007,
+    "itemType": 35000,
+    "description": " sinh lực tối đa: +3300(2300-3300) \n năng lượng tối đa: +3300(2300-3300) \n Hồi năng lượng mỗi 5 giây: +320",
+    "name": "Giày ám bộ",
+    "canTrade": 0,
+    "levelRequire": 75
+  },
+  {
+    "id": 35008,
+    "itemType": 35000,
+    "description": " sinh lực tối đa: +4600(4000-4600) \n năng lượng tối đa: +4600(4000-4600) \n Hồi năng lượng mỗi 5 giây: +1000",
+    "name": "Giày quỷ đồng hoàn",
+    "canTrade": 0,
+    "levelRequire": 85
+  },
+  {
+    "id": 36001,
+    "itemType": 36000,
+    "description": " sinh lực tối đa: +40(30-40) \n năng lượng tối đa: +40(30-40) \n Sát thương chí mạng: +50(40-50)",
+    "name": "Nhẫn tập sự",
+    "canTrade": 0,
+    "levelRequire": 12
+  },
+  {
+    "id": 36002,
+    "itemType": 36000,
+    "description": " sinh lực tối đa: +400(300-400) \n năng lượng tối đa: +400(300-400) \n Sát thương chí mạng: +100(50-100)",
+    "name": "Nhẵn hạ đẳng",
+    "canTrade": 0,
+    "levelRequire": 26
+  },
+  {
+    "id": 36003,
+    "itemType": 36000,
+    "description": " sinh lực tối đa: +750(600-750) \n năng lượng tối đa: +750(600-750) \n Sát thương chí mạng: +200(150-200)",
+    "name": "Nhẫn trung đẳng",
+    "canTrade": 0,
+    "levelRequire": 36
+  },
+  {
+    "id": 36004,
+    "itemType": 36000,
+    "description": " sinh lực tối đa: +1200(750-1200) \n năng lượng tối đa: +1200(750-1200) \n Sát thương chí mạng: +250(200-250)",
+    "name": "Nhẫn thượng đẳng",
+    "canTrade": 0,
+    "levelRequire": 46
+  },
+  {
+    "id": 36005,
+    "itemType": 36000,
+    "description": " sinh lực tối đa: +1700(1400-1700) \n năng lượng tối đa: +1700(1400-1700) \n Sát thương chí mạng: +300(2500-300)",
+    "name": "Nhẫn giáo quan",
+    "canTrade": 0,
+    "levelRequire": 56
+  },
+  {
+    "id": 36006,
+    "itemType": 36000,
+    "description": " sinh lực tối đa: +2600(1700-2600) \n năng lượng tối đa: +2600(1700-2600) \n Sát thương chí mạng: +350(300-350)",
+    "name": "Nhẫn chỉ huy",
+    "canTrade": 0,
+    "levelRequire": 66
+  },
+  {
+    "id": 36007,
+    "itemType": 36000,
+    "description": " sinh lực tối đa: +3300(2300-3300) \n năng lượng tối đa: +3300(2300-3300) \n Sát thương chí mạng: +500(400-500)",
+    "name": "Nhẫn ám bộ",
+    "canTrade": 0,
+    "levelRequire": 76
+  },
+  {
+    "id": 36008,
+    "itemType": 36000,
+    "description": " sinh lực tối đa: +4600(4000-4600) \n năng lượng tối đa: +4600(4000-4600) \n Sát thương chí mạng: +600(500-600)",
+    "name": "Nhẫn quỷ đồng hoàn",
+    "canTrade": 0,
+    "levelRequire": 86
+  },
+  {
+    "id": 37001,
+    "itemType": 37000,
+    "description": " sinh lực tối đa: +40(30-40) \n năng lượng tối đa: +40(30-40) \n Chí mạng: +50(40-50)",
+    "name": "Găng tập sự",
+    "canTrade": 0,
+    "levelRequire": 15
+  },
+  {
+    "id": 37002,
+    "itemType": 37000,
+    "description": " sinh lực tối đa: +400(300-400) \n năng lượng tối đa: +400(300-400) \n Chí mạng: +100(50-100)",
+    "name": "Găng hạ đẳng",
+    "canTrade": 0,
+    "levelRequire": 28
+  },
+  {
+    "id": 37003,
+    "itemType": 37000,
+    "description": " sinh lực tối đa: +750(600-750) \n năng lượng tối đa: +750(600-750) \n Chí mạng: +200(150-200)",
+    "name": "Găng trung đẳng",
+    "canTrade": 0,
+    "levelRequire": 38
+  },
+  {
+    "id": 37004,
+    "itemType": 37000,
+    "description": " sinh lực tối đa: +1200(750-1200) \n năng lượng tối đa: +1200(750-1200) \n Chí mạng: +250(200-250)",
+    "name": "Găng thượng đẳng",
+    "canTrade": 0,
+    "levelRequire": 48
+  },
+  {
+    "id": 37005,
+    "itemType": 37000,
+    "description": " sinh lực tối đa: +1700(1400-1700) \n năng lượng tối đa: +1700(1400-1700) \n Chí mạng: +300(250-300)",
+    "name": "Găng giáo quan",
+    "canTrade": 0,
+    "levelRequire": 58
+  },
+  {
+    "id": 37006,
+    "itemType": 37000,
+    "description": " sinh lực tối đa: +2600(1700-2600) \n năng lượng tối đa: +2600(1700-2600) \n Chí mạng: +350(300-350)",
+    "name": "Găng chỉ huy",
+    "canTrade": 0,
+    "levelRequire": 68
+  },
+  {
+    "id": 37007,
+    "itemType": 37000,
+    "description": " sinh lực tối đa: +3300(2300-3300) \n năng lượng tối đa: +3300(2300-3300) \n Chí mạng: +500(400-500)",
+    "name": "Găng ám bộ",
+    "canTrade": 0,
+    "levelRequire": 78
+  },
+  {
+    "id": 37008,
+    "itemType": 37000,
+    "description": " sinh lực tối đa: +4600(4000-4600) \n năng lượng tối đa: +4600(4000-4600) \n Chí mạng: +600(500-600)",
+    "name": "Găng quỷ đồng hoàn",
+    "canTrade": 0,
+    "levelRequire": 88
+  },
+  {
+    "id": 38001,
+    "itemType": 38000,
+    "description": " sinh lực tối đa: +40(30-40) \n năng lượng tối đa: +40(30-40) \n Giảm sát thương: +50(40-50)",
+    "name": "Bội tập sự",
+    "canTrade": 0,
+    "levelRequire": 18
+  },
+  {
+    "id": 8002,
+    "itemType": 8000,
+    "description": " sinh lực tối đa: +400(300-400) \n năng lượng tối đa: +400(300-400) \n Giảm sát thương: +100(50-100)",
+    "name": "Bội hạ đẳng",
+    "canTrade": 0,
+    "levelRequire": 29
+  },
+  {
+    "id": 38003,
+    "itemType": 38000,
+    "description": " sinh lực tối đa: +750(600-750) \n năng lượng tối đa: +750(600-750) \n Giảm sát thương: +200(150-200)",
+    "name": "Bội trung đẳng",
+    "canTrade": 0,
+    "levelRequire": 39
+  },
+  {
+    "id": 38004,
+    "itemType": 38000,
+    "description": " sinh lực tối đa: +1200(750-1200) \n năng lượng tối đa: +1200(750-1200) \n Giảm sát thương: +250(200-250)",
+    "name": "Bội thượng đẳng",
+    "canTrade": 0,
+    "levelRequire": 49
+  },
+  {
+    "id": 38005,
+    "itemType": 38000,
+    "description": " sinh lực tối đa: +1700(1400-1700) \n năng lượng tối đa: +1700(1400-1700) \n Giảm sát thương: +300(2500-300)",
+    "name": "Bội giáo quan",
+    "canTrade": 0,
+    "levelRequire": 59
+  },
+  {
+    "id": 38006,
+    "itemType": 38000,
+    "description": " sinh lực tối đa: +2600(1700-2600) \n năng lượng tối đa: +2600(1700-2600) \n Giảm sát thương: +350(300-350)",
+    "name": "Bội chỉ huy",
+    "canTrade": 0,
+    "levelRequire": 69
+  },
+  {
+    "id": 38007,
+    "itemType": 38000,
+    "description": " sinh lực tối đa: +3300(2300-3300) \n năng lượng tối đa: +3300(2300-3300) \n Giảm sát thương: +500(400-500)",
+    "name": "Bội ám bộ",
+    "canTrade": 0,
+    "levelRequire": 79
+  },
+  {
+    "id": 38008,
+    "itemType": 38000,
+    "description": " sinh lực tối đa: +4600(4000-4600) \n năng lượng tối đa: +4600(4000-4600) \n Giảm sát thương: +600(500-600)",
+    "name": "Bội quỷ đồng hoàn",
+    "canTrade": 0,
+    "levelRequire": 89
+  }
+]

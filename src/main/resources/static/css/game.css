@@ -1,0 +1,19 @@
+/* Game themes */
+body.htht-theme { background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); }
+body.nro2-theme { background: linear-gradient(135deg, #f12711 0%, #f5af19 100%); }
+body.tmah-theme { background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%); }
+
+.game-btn.htht {
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    color: white;
+}
+
+.game-btn.nro2 {
+    background: linear-gradient(135deg, #f12711 0%, #f5af19 100%);
+    color: white;
+}
+
+.game-btn.tmah {
+    background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+    color: white;
+}
