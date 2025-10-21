@@ -131,10 +131,13 @@ rewardSearchInput.addEventListener('input', function() {
         return;
     }
 
-    const filtered = allRewards[currentGame].filter(reward =>
-        reward.name.toLowerCase().includes(query) &&
-        !selectedRewards[currentGame].some(r => r.infoId === reward.infoId)
-    );
+    const filtered = allRewards[currentGame].filter(reward => {
+        const matchName = reward.name.toLowerCase().includes(query);
+        const matchId = reward.infoId.toString().includes(query);
+        const notSelected = !selectedRewards[currentGame].some(r => r.infoId === reward.infoId);
+
+        return (matchName || matchId) && notSelected;
+    });
 
     displayRewardResults(filtered);
 });
@@ -205,10 +208,8 @@ function renderSelectedRewards() {
     }
 
     let html = '';
-    console.log(currentRewards);
     currentRewards.forEach(reward => {
         const isNull = reward.name.includes('Null');
-        console.log(isNull);
         const nameStyle = isNull ? 'style="color: #dc3545;"' : '';
         html += `
                 <div class="selected-item">
