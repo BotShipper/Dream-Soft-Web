@@ -205,11 +205,15 @@ function renderSelectedRewards() {
     }
 
     let html = '';
+    console.log(currentRewards);
     currentRewards.forEach(reward => {
+        const isNull = reward.name.includes('Null');
+        console.log(isNull);
+        const nameStyle = isNull ? 'style="color: #dc3545;"' : '';
         html += `
                 <div class="selected-item">
-                    <span>${reward.infoId}</span>
-                    <span><strong>${reward.name}</strong> x${reward.number}</span>
+                    <span ${nameStyle}>${reward.infoId}</span>
+                    <span ${nameStyle}><strong>${reward.name}</strong> x${reward.number}</span>
                     <button class="remove-btn" onclick="removeReward(${reward.infoId})" title="Xóa">
                         ×
                     </button>
@@ -242,28 +246,73 @@ function updateJsonOutput() {
 }
 
 // Copy JSON to clipboard
-document.getElementById('copyJsonBtn').addEventListener('click', function() {
+document.getElementById('copyJsonBtn').addEventListener('click', function () {
     const jsonText = document.getElementById('jsonOutput').textContent;
-    navigator.clipboard.writeText(jsonText)
-        .then(() => {
-            showToast('Đã copy JSON vào clipboard!', 'success');
-        })
-        .catch(err => {
-            showToast('Lỗi copy: ' + err.message, 'danger');
-        });
+
+    // Kiểm tra có Clipboard API không
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(jsonText)
+            .then(() => {
+                showToast('Đã copy JSON vào clipboard!', 'success');
+            })
+            .catch(err => {
+                console.error('Lỗi copy: ' + err.message, 'danger');
+                // Fallback nếu clipboard API fail
+                fallbackCopy(jsonText);
+            });
+    } else {
+        // Dùng fallback cho môi trường không secure
+        fallbackCopy(jsonText);
+    }
 });
 
 // Copy String to clipboard
 document.getElementById('copyStringBtn').addEventListener('click', function() {
     const stringText = document.getElementById('stringOutput').textContent;
-    navigator.clipboard.writeText(stringText)
-        .then(() => {
-            showToast('Đã copy String vào clipboard!', 'success');
-        })
-        .catch(err => {
-            showToast('Lỗi copy: ' + err.message, 'danger');
-        });
+
+    // Kiểm tra có Clipboard API không
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(stringText)
+            .then(() => {
+                showToast('Đã copy String vào clipboard!', 'success');
+            })
+            .catch(err => {
+                showToast('Lỗi copy: ' + err.message, 'danger');
+
+                // Fallback nếu clipboard API fail
+                fallbackCopy(stringText);
+            });
+    } else {
+        // Dùng fallback cho môi trường không secure
+        fallbackCopy(stringText);
+    }
+
 });
+
+// Hàm fallback copy
+function fallbackCopy(text) {
+    const textArea = document.createElement('textarea');
+    textArea.value = text;
+    textArea.style.position = 'fixed';
+    textArea.style.left = '-999999px';
+    textArea.style.top = '-999999px';
+    document.body.appendChild(textArea);
+    textArea.focus();
+    textArea.select();
+
+    try {
+        const successful = document.execCommand('copy');
+        document.body.removeChild(textArea);
+        if (successful) {
+            showToast('Đã copy vào clipboard!', 'success');
+        } else {
+            showToast('Không thể copy. Vui lòng copy thủ công', 'danger');
+        }
+    } catch (err) {
+        document.body.removeChild(textArea);
+        showToast('Không thể copy: ' + err.message, 'danger');
+    }
+}
 
 // Import functionality
 document.getElementById('importBtn').addEventListener('click', function() {
