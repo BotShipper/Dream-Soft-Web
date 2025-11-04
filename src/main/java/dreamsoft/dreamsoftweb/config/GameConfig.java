@@ -12,11 +12,11 @@ import java.util.Map;
 @ConfigurationProperties(prefix = "game")
 public class GameConfig {
 
+    private Map<String, GameInfo> configs = new HashMap<>();
+
     @Data
     public static class GameInfo {
         private String name;
         private String dataFile;
     }
-
-    private Map<String, GameInfo> configs = new HashMap<>();
 }

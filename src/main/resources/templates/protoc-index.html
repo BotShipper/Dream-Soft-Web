@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <title>ProtoGen Full Combo</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <link href="/asset/rocket_favicon.svg" rel="icon" type="image/svg+xml">
+    <link href="/css/protoc-css.css" rel="stylesheet">
+</head>
+<body>
+<div class="wrapper">
+    <div class="header">
+        <h1>🚀 ProtoGen</h1>
+        <p>Generate Java & C# code from Protocol Buffer definitions</p>
+    </div>
+
+    <div class="controls">
+        <label for="lang">Output Language:</label>
+        <select id="lang">
+            <option value="java">Java</option>
+            <option value="csharp">C#</option>
+            <option value="both">Both</option>
+        </select>
+        <button id="gen">▶ Generate</button>
+        <button id="downloadZip">📥 Download Zip</button>
+    </div>
+
+    <div class="container">
+        <div class="panel">
+            <div class="panel-header">
+                <span>📝 Input (.proto)</span>
+            </div>
+            <textarea id="proto" placeholder="Enter your .proto definition here...">syntax = "proto3";
+option java_package = "game.app.pb";
+option java_outer_classname = "DataResponsePB";
+
+message PBInt {
+    int32 value = 1;
+}
+
+message PBLong {
+  int64 value = 1;
+}</textarea>
+        </div>
+
+        <div class="panel">
+            <div class="panel-header">
+                <span>✨ Output</span>
+                <button class="copy-btn" id="copyBtn">📋 Copy</button>
+            </div>
+            <pre id="output">// Click "Generate" to see the output...</pre>
+        </div>
+    </div>
+
+    <div class="status" id="status"></div>
+</div>
+
+<script src="/js/protoc-js.js"></script>
+</body>
+</html>

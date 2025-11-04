@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<g>
+  <!-- Rocket body -->
+  <path d="M32 2 C24 10 22 28 22 36 L42 36 C42 28 40 10 32 2 Z" fill="#ccc" stroke="#000" stroke-width="2"/>
+  <!-- Window -->
+  <circle cx="32" cy="24" r="5" fill="#87CEEB" stroke="#000" stroke-width="2"/>
+  <!-- Fins -->
+  <path d="M22 36 L14 44 L22 44 Z" fill="#d32f2f" stroke="#000" stroke-width="2"/>
+  <path d="M42 36 L50 44 L42 44 Z" fill="#d32f2f" stroke="#000" stroke-width="2"/>
+  <!-- Flame -->
+  <path d="M28 44 L32 62 L36 44 Z" fill="#ffa500" stroke="#000" stroke-width="2"/>
+</g>
+</svg>

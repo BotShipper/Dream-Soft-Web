@@ -5,11 +5,11 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-@RequestMapping("/proto")
-public class ProtocCompilerView {
+@RequestMapping("/protoc")
+public class ProtocView {
 
     @GetMapping()
     public String index() {
-        return "proto-index";
+        return "protoc-index";
     }
 }
