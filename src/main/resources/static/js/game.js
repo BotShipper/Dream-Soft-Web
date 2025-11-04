@@ -1,7 +1,7 @@
 // Game configurations
 const GAMES = {
     htht: {
-        name: 'Hải Tặc',
+        name: 'Hải Tặc Huyền thoại',
         icon: '🏴‍☠️',
         api: '/api/item-info/htht',
         color: '#2a5298'
@@ -17,5 +17,11 @@ const GAMES = {
         icon: '🥷',
         api: '/api/item-info/tmah',
         color: '#34495e'
+    },
+    vhq: {
+        name: 'Vua Hải Quân',
+        icon: '🤴',
+        api: '/api/item-info/vhq',
+        color: '#457a41'
     }
 };

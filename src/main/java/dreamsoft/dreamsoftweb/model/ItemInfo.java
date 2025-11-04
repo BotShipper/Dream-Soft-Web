@@ -1,4 +1,4 @@
-package dreamsoft.dreamsoftweb.entity;
+package dreamsoft.dreamsoftweb.model;
 
 import lombok.Data;
 

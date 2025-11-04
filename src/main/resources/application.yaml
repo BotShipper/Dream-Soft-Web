@@ -20,3 +20,6 @@ game:
     tmah:
       name: "Thien Menh Anh Hung"
       data-file: "classpath:data/item_info_tmah.json"
+    vhq:
+      name: "Vua Hai Quan"
+      data-file: "classpath:data/item_info_vhq.json"

@@ -1,7 +1,7 @@
 package dreamsoft.dreamsoftweb.mapper;
 
 import dreamsoft.dreamsoftweb.dto.ItemInfoDto;
-import dreamsoft.dreamsoftweb.entity.ItemInfo;
+import dreamsoft.dreamsoftweb.model.ItemInfo;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 

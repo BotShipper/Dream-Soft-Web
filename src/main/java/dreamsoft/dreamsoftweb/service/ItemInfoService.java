@@ -4,7 +4,7 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import dreamsoft.dreamsoftweb.config.GameConfig;
 import dreamsoft.dreamsoftweb.dto.ItemInfoDto;
-import dreamsoft.dreamsoftweb.entity.ItemInfo;
+import dreamsoft.dreamsoftweb.model.ItemInfo;
 import dreamsoft.dreamsoftweb.mapper.ItemInfoMapper;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
