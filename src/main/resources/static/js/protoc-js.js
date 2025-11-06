@@ -46,11 +46,20 @@ document.getElementById('copyBtn').addEventListener('click', async () => {
     const output = document.getElementById('output').textContent;
     const btn = document.getElementById('copyBtn');
 
+    // Prevent spam clicking - check if already copying
+    if (btn.disabled) {
+        return;
+    }
+
     // Check if there's actual generated code (not just placeholder message)
     if (output.includes('Click "Generate"') || output === '// Generating code...') {
         showStatus('No code to copy yet', 'error');
         return;
     }
+
+    // Disable button to prevent spam
+    btn.disabled = true;
+    btn.textContent = '⏳ Copying...';
 
     try {
         // Try modern clipboard API first
@@ -79,10 +88,12 @@ document.getElementById('copyBtn').addEventListener('click', async () => {
         btn.classList.add('copied');
         showStatus('Code copied to clipboard!', 'success');
 
+        // Re-enable after showing success message
         setTimeout(() => {
             btn.textContent = '📋 Copy';
             btn.classList.remove('copied');
-        }, 2000);
+            btn.disabled = false;
+        }, 1500);
     } catch (error) {
         // If all methods fail, show manual copy instruction
         showStatus('Please select and copy manually (Ctrl+C)', 'error');
@@ -94,6 +105,10 @@ document.getElementById('copyBtn').addEventListener('click', async () => {
         const selection = window.getSelection();
         selection.removeAllRanges();
         selection.addRange(range);
+
+        // Re-enable button immediately after error
+        btn.textContent = '📋 Copy';
+        btn.disabled = false;
     }
 });
 
