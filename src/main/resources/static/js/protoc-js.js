@@ -15,7 +15,7 @@ async function doPreview() {
     }
 
     const lang = document.getElementById('lang').value;
-    document.getElementById('output').textContent = '// Generating code...';
+    document.getElementById('output').value = '// Generating code...';
 
     try {
         const fd = new FormData();
@@ -26,16 +26,16 @@ async function doPreview() {
 
         if (!res.ok) {
             const errorText = await res.text();
-            document.getElementById('output').textContent = `// Error:\n${errorText}`;
+            document.getElementById('output').value = `// Error:\n${errorText}`;
             showStatus('Generation failed', 'error');
             return;
         }
 
         const json = await res.json();
-        document.getElementById('output').textContent = json.code;
+        document.getElementById('output').value = json.code;
         showStatus('Code generated successfully!', 'success');
     } catch (error) {
-        document.getElementById('output').textContent = `// Error: ${error.message}`;
+        document.getElementById('output').value = `// Error: ${error.message}`;
         showStatus('Network error occurred', 'error');
     }
 }
@@ -43,7 +43,7 @@ async function doPreview() {
 document.getElementById('gen').addEventListener('click', doPreview);
 
 document.getElementById('copyBtn').addEventListener('click', async () => {
-    const output = document.getElementById('output').textContent;
+    const output = document.getElementById('output').value;
     const btn = document.getElementById('copyBtn');
 
     // Prevent spam clicking - check if already copying
@@ -98,13 +98,10 @@ document.getElementById('copyBtn').addEventListener('click', async () => {
         // If all methods fail, show manual copy instruction
         showStatus('Please select and copy manually (Ctrl+C)', 'error');
 
-        // Optionally, select the text for user to copy manually
+        // Select the output textarea for user to copy manually
         const outputElement = document.getElementById('output');
-        const range = document.createRange();
-        range.selectNodeContents(outputElement);
-        const selection = window.getSelection();
-        selection.removeAllRanges();
-        selection.addRange(range);
+        outputElement.focus();
+        outputElement.select();
 
         // Re-enable button immediately after error
         btn.textContent = '📋 Copy';
@@ -147,7 +144,7 @@ document.getElementById('downloadZip').addEventListener('click', async () => {
     }
 });
 
-// Auto-resize textarea
+// Auto-resize textarea for proto input
 const textarea = document.getElementById('proto');
 textarea.addEventListener('input', function () {
     this.style.height = 'auto';

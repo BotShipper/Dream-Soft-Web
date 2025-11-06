@@ -86,12 +86,17 @@ button {
     gap: 8px;
 }
 
+button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
 #gen {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
 }
 
-#gen:hover {
+#gen:hover:not(:disabled) {
     transform: translateY(-2px);
     box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
 }
@@ -101,7 +106,7 @@ button {
     color: white;
 }
 
-#downloadZip:hover {
+#downloadZip:hover:not(:disabled) {
     background: #218838;
     transform: translateY(-2px);
     box-shadow: 0 6px 20px rgba(40, 167, 69, 0.4);
@@ -143,7 +148,7 @@ button {
     border-radius: 6px;
 }
 
-.copy-btn:hover {
+.copy-btn:hover:not(:disabled) {
     background: #5a6268;
     transform: translateY(-1px);
 }
@@ -167,17 +172,9 @@ textarea:focus {
     outline: none;
 }
 
-pre {
-    flex: 1;
-    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
-    font-size: 14px;
-    padding: 20px;
-    overflow: auto;
-    white-space: pre-wrap;
-    line-height: 1.6;
+#output {
     background: #f8f9fa;
     color: #212529;
-    margin: 0;
 }
 
 .status {
