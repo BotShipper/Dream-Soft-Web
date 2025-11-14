@@ -3,9 +3,16 @@ package dreamsoft.dreamsoftweb.service;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
-import java.io.*;
-import java.nio.file.*;
-import java.util.*;
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.UncheckedIOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.StandardCopyOption;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.stream.Collectors;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
@@ -52,7 +59,7 @@ public class ProtocService {
             }
         }
 
-        // 3. Fallback: load từ resources (cho trường hợp đóng gói trong JAR)
+        // 3. Fallback: load từ resources
         InputStream is = getClass().getResourceAsStream("/protoc/bin/" + exeName);
         if (is == null) {
             throw new IllegalStateException("❌ protoc not found! Please:\n" +
@@ -61,14 +68,57 @@ public class ProtocService {
                     "- Include protoc binary in resources/protoc/bin/");
         }
 
-        // Extract to temp file
         Path tmp = Files.createTempFile("protoc-", exeName);
         Files.copy(is, tmp, StandardCopyOption.REPLACE_EXISTING);
         tmp.toFile().setExecutable(true);
         return tmp;
     }
 
-    public Path generate(MultipartFile uploadedFile, String prototext, String lang) throws Exception {
+    // Method mới: tìm protogen (protobuf-net)
+    private Path findProtogen() throws IOException {
+        String os = System.getProperty("os.name").toLowerCase();
+        boolean isWindows = os.contains("win");
+        String exeName = isWindows ? "protogen.exe" : "protogen";
+
+        // Tìm trong PATH system
+        String[] systemPaths;
+        if (isWindows) {
+            String userProfile = System.getenv("USERPROFILE");
+            String localAppData = System.getenv("LOCALAPPDATA");
+
+            systemPaths = new String[]{
+                    userProfile + "\\.dotnet\\tools\\protogen.exe",
+                    "C:\\Program Files\\dotnet\\tools\\protogen.exe",
+                    localAppData + "\\Microsoft\\dotnet\\tools\\protogen.exe",
+                    "C:\\protobuf-net\\protogen.exe"
+            };
+        } else {
+            String home = System.getProperty("user.home");
+            systemPaths = new String[]{
+                    home + "/.dotnet/tools/protogen",
+                    "/usr/local/bin/protogen",
+                    "/usr/bin/protogen"
+            };
+        }
+
+        for (String path : systemPaths) {
+            if (path != null) {
+                Path p = Paths.get(path);
+                if (Files.exists(p)) {
+                    System.out.println("✅ Found protogen at: " + p);
+                    return p;
+                }
+            }
+        }
+
+        throw new IllegalStateException("❌ protogen not found! Install it via:\n" +
+                "dotnet tool install -g protobuf-net.Protogen\n" +
+                "Then restart your application.");
+    }
+
+    // Method chính với option chọn compiler
+    public Path generate(MultipartFile uploadedFile, String prototext, String lang,
+                         CSharpCompiler csharpCompiler) throws Exception {
         Path protocPath = extractProtoc();
 
         Path tmpDir = Files.createTempDirectory("protogen-");
@@ -91,16 +141,23 @@ public class ProtocService {
         baseCmd.add(protocPath.toString());
         baseCmd.add("--proto_path=" + tmpDir);
 
+        // Generate Java
         if ("java".equalsIgnoreCase(lang) || "both".equalsIgnoreCase(lang)) {
             Path javaOut = outDir.resolve("java");
             Files.createDirectories(javaOut);
             runProtoc(baseCmd, protoFile, javaOut, "--java_out=");
         }
 
+        // Generate C# với compiler được chọn
         if ("csharp".equalsIgnoreCase(lang) || "both".equalsIgnoreCase(lang)) {
             Path csOut = outDir.resolve("csharp");
             Files.createDirectories(csOut);
-            runProtoc(baseCmd, protoFile, csOut, "--csharp_out=");
+
+            if (csharpCompiler == CSharpCompiler.PROTOBUF_NET) {
+                runProtobufNet(protoFile, csOut);
+            } else {
+                runProtoc(baseCmd, protoFile, csOut, "--csharp_out=");
+            }
         }
 
         Path zip = tmpDir.resolve("generated.zip");
@@ -109,7 +166,63 @@ public class ProtocService {
         return zip;
     }
 
-    public String previewGeneratedCode(String prototext, String lang) throws Exception {
+    // Overload để giữ tương thích với code cũ (mặc định dùng protobuf-net)
+    public Path generate(MultipartFile uploadedFile, String prototext, String lang) throws Exception {
+        return generate(uploadedFile, prototext, lang, CSharpCompiler.PROTOBUF_NET);
+    }
+
+    // Method mới: generate C# với protobuf-net
+    private void runProtobufNet(Path protoFile, Path outDir) throws Exception {
+        Path protogenPath = findProtogen();
+
+        // protogen cần relative path, không phải absolute path
+        List<String> cmd = new ArrayList<>();
+        cmd.add(protogenPath.toString());
+        cmd.add("--csharp_out=" + outDir.toAbsolutePath().toString());
+
+        // ❌ KHÔNG DÙNG: cmd.add(protoFile.toAbsolutePath().toString());
+        // ✅ DÙNG: chỉ tên file, và chạy từ thư mục chứa file
+        cmd.add(protoFile.getFileName().toString());
+
+        System.out.println("🔧 Running: " + String.join(" ", cmd));
+
+        try {
+            // Set working directory là thư mục chứa file .proto
+            runProcess(cmd, protoFile.getParent());
+            System.out.println("✅ Generated C# files in: " + outDir);
+        } catch (Exception e) {
+            System.err.println("❌ protogen failed: " + e.getMessage());
+            throw e;
+        }
+    }
+
+    private void runProcess(List<String> cmd, Path workingDir) throws Exception {
+        ProcessBuilder pb = new ProcessBuilder(cmd);
+        if (workingDir != null) {
+            pb.directory(workingDir.toFile());
+        }
+        pb.redirectErrorStream(true);
+        Process p = pb.start();
+
+        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+        try (InputStream is = p.getInputStream()) {
+            is.transferTo(baos);
+        }
+
+        int exitCode = p.waitFor();
+        String output = baos.toString();
+
+        if (!output.isEmpty()) {
+            System.out.println("📋 Process output:\n" + output);
+        }
+
+        if (exitCode != 0) {
+            throw new IllegalStateException("❌ Command failed with exit code " + exitCode + ":\n" + output);
+        }
+    }
+
+    public String previewGeneratedCode(String prototext, String lang,
+                                       CSharpCompiler csharpCompiler) throws Exception {
         if (prototext == null || prototext.isBlank()) return "❌ No proto provided";
 
         Path protocPath = extractProtoc();
@@ -130,10 +243,20 @@ public class ProtocService {
         } else if ("csharp".equalsIgnoreCase(lang)) {
             Path csOut = outDir.resolve("csharp");
             Files.createDirectories(csOut);
-            runProtoc(baseCmd, protoFile, csOut, "--csharp_out=");
+
+            if (csharpCompiler == CSharpCompiler.PROTOBUF_NET) {
+                runProtobufNet(protoFile, csOut);
+            } else {
+                runProtoc(baseCmd, protoFile, csOut, "--csharp_out=");
+            }
             return readFiles(csOut);
         }
         return "❌ Unsupported language: " + lang;
+    }
+
+    // Overload - mặc định dùng protobuf-net
+    public String previewGeneratedCode(String prototext, String lang) throws Exception {
+        return previewGeneratedCode(prototext, lang, CSharpCompiler.PROTOBUF_NET);
     }
 
     private void runProtoc(List<String> baseCmd, Path protoFile, Path outDir, String outFlag) throws Exception {
@@ -144,18 +267,7 @@ public class ProtocService {
     }
 
     private void runProcess(List<String> cmd) throws Exception {
-        ProcessBuilder pb = new ProcessBuilder(cmd);
-        pb.redirectErrorStream(true);
-        Process p = pb.start();
-
-        ByteArrayOutputStream baos = new ByteArrayOutputStream();
-        try (InputStream is = p.getInputStream()) {
-            is.transferTo(baos);
-        }
-
-        if (p.waitFor() != 0) {
-            throw new IllegalStateException("❌ protoc failed:\n" + baos);
-        }
+        runProcess(cmd, null);
     }
 
     private void zipFolder(Path source, Path zipFile) throws IOException {
@@ -185,5 +297,11 @@ public class ProtocService {
                     .append(Files.readString(f)).append("\n\n");
         }
         return sb.toString();
+    }
+
+    // Thêm enum để chọn C# compiler
+    public enum CSharpCompiler {
+        GOOGLE_PROTOC,      // protoc --csharp_out (mặc định)
+        PROTOBUF_NET        // protogen (protobuf-net)
     }
 }
